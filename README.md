@@ -5,25 +5,25 @@ This repository contains the implementation of the Semantic-Guided Monocular Dep
 
 The model enhances depth estimation accuracy through explicit constraints from semantic segmentation, focusing on refining depth estimation contours.
 
-### Results
+### Result3
 
-| Method | Train | BackBone | Abs Rel | Sq Rel | RMSE | RMSE log |  | Value 8 | Value 9 | Value 10 |
-|--------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|
-| SGDepth | M+Se | ResNet50 | 0.112 |  | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 |
-| Ours | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 |
-| Metric 3 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 |
-| Metric 4 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 |
+| Method | Train | BackBone | Abs Rel | Sq Rel | RMSE | RMSE log | \(\delta < 1.25\) | \({\delta ^2} < 1.25\) | \({\delta ^3} < 1.25\)| 
+|--------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+| SGDepth | M+Se | ResNet50 | 0.112 | 0.785 | 4.537 | 0.189 | 0.885 | 0.963 |0.982   |
+| Ours | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 
+| Metric 3 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 |
+| Metric 4 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0
 
 ## Modules
 
 ### 1. Semantic-Depth Consistency Loss
-Description: Enhances depth estimation by leveraging semantic segmentation information to ensure consistency between depth predictions and semantic segmentation labels.
+We devised a semantic-guided monocular depth estimation model based on patch knowledge distillation (SGDPKD). This model incorporates a semantic depth consistency loss, ensuring that pixels with the same semantic label possess consistent relative depth.
 
 ### 2. Patch Knowledge Distillation Module
-Description: Transfers knowledge from high-resolution patches to refine depth predictions, improving fine details in depth maps.
+We improved the patch-based depth refinement method by employing dual networks (self+DPT\citep{yifan2019patch}) to estimate multi-scale patch depths. These patch depths are fused using contour masks. We incorporate this approach into model training, achieving patch-based knowledge distillation via the patch loss function.
 
 ### 3. Block Self-Attention Mechanism
-Description: Integrates a self-attention mechanism at the block level to capture long-range dependencies and improve global coherence in depth estimation.
+We introduced a block-wise self-attention module in the decoder to enhance the extraction capability of deep features. Compared to conventional attention modules, the block-wise approach reduces the computational load of the model.
 
 ## Usage
 1. **Installation**: Follow the installation instructions in `INSTALL.md`.
