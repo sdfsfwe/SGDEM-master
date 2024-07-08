@@ -1,33 +1,36 @@
-# SGDPKD-master
-# Monocular Depth Estimation Algorithm
+# Semantic-Guided Monocular Depth Estimation Based on Patch Knowledge Distillation
 
-This project implements a monocular depth estimation algorithm aimed at improving depth estimation accuracy and stability through three key modules: Patch Knowledge Distillation Module, Semantic Depth Consistency Loss, and Block Self-Attention Mechanism.
+## Introduction
+This repository contains the implementation of the Semantic-Guided Monocular Depth Estimation model based on Patch Knowledge Distillation, developed by Wang Bin from Nanjing University of Information Science and Technology.
 
-## Author
-
-- Author: Wang Bin
+The model enhances depth estimation accuracy through explicit constraints from semantic segmentation, focusing on refining depth estimation contours.
 
 ## Modules
 
-This project includes the following three key modules:
+### 1. Semantic-Depth Consistency Loss
+Description: Enhances depth estimation by leveraging semantic segmentation information to ensure consistency between depth predictions and semantic segmentation labels.
 
-### 1. Patch Knowledge Distillation Module
-
-The Patch Knowledge Distillation Module utilizes patch information to enhance the generalization and accuracy of the depth estimation model. By incorporating patch knowledge, the module learns depth information specific to regions within the scene.
-
-### 2. Semantic Depth Consistency Loss
-
-The Semantic Depth Consistency Loss improves the semantic consistency of depth images by integrating semantic information with depth prediction results. This enhancement aims to improve depth estimation accuracy and visual perception quality.
+### 2. Patch Knowledge Distillation Module
+Description: Transfers knowledge from high-resolution patches to refine depth predictions, improving fine details in depth maps.
 
 ### 3. Block Self-Attention Mechanism
-
-The Block Self-Attention Mechanism enhances the model's focus on different regions of the image using self-attention mechanisms. By dynamically adjusting attention weights learned automatically, the module enhances the accuracy and robustness of depth estimation.
+Description: Integrates a self-attention mechanism at the block level to capture long-range dependencies and improve global coherence in depth estimation.
 
 ## Usage
+1. **Installation**: Follow the installation instructions in `INSTALL.md`.
+2. **Training**: Run `train.py` with specified parameters to train the model.
+3. **Evaluation**: Evaluate model performance using `evaluate.py` on test datasets.
+4. **Inference**: Perform depth estimation on new images with `inference.py`.
 
-To use this project, follow these steps:
+## Requirements
+- Python 3.9
+- Dependencies listed in `requirements.txt`
 
-1. Clone the repository locally:
-
-   ```bash
-   git clone https://github.com/sdfsfwe/SGDPKD-master.git
+## Citation
+If you find this work helpful in your research, please cite:
+@article{wang2024semanticdepth,
+title={Semantic-Guided Monocular Depth Estimation Based on Patch Knowledge Distillation},
+author={Wang, Bin},
+journal={Journal of Computer Vision},
+year={2024},
+}
