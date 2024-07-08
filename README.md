@@ -28,6 +28,7 @@ Description: Integrates a self-attention mechanism at the block level to capture
 
 ## Citation
 If you find this work helpful in your research, please cite:
+```bibtex
 @article{wang2024semanticdepth,
   title={Semantic-Guided Monocular Depth Estimation Based on Patch Knowledge Distillation},
   author={Wang, Bin},
