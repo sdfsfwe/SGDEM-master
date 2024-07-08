@@ -7,12 +7,12 @@ The model enhances depth estimation accuracy through explicit constraints from s
 
 ### Result3
 
-| Method | Train | BackBone | Abs Rel | Sq Rel | RMSE | RMSE log | \(\delta < 1.25\) | \({\delta ^2} < 1.25\) | \({\delta ^3} < 1.25\)| 
+| Method | Train | BackBone | Abs Rel | Sq Rel | RMSE | RMSE log |δ < 1.25 | δ² < 1.25 | δ³ < 1.25 | 
 |--------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 | SGDepth | M+Se | ResNet50 | 0.112 | 0.785 | 4.537 | 0.189 | 0.885 | 0.963 |0.982   |
 | Ours | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 
 | Metric 3 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 |
-| Metric 4 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0
+| Metric 4 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 
 
 ## Modules
 
