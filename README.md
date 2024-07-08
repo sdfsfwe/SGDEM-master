@@ -30,4 +30,4 @@ To use this project, follow these steps:
 1. Clone the repository locally:
 
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/sdfsfwe/SGDPKD-master.git
