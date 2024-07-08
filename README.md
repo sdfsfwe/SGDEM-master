@@ -7,12 +7,12 @@ The model enhances depth estimation accuracy through explicit constraints from s
 
 ### Results
 
-| Metric       | Value |
-|--------------|-------|
-| Accuracy     | 0.85  |
-| Precision    | 0.82  |
-| Recall       | 0.88  |
-| F1 Score     | 0.85  |
+| Metric | Value 1 | Value 2 | Value 3 | Value 4 | Value 5 | Value 6 | Value 7 | Value 8 | Value 9 | Value 10 |
+|--------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|
+| Metric 1 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 |
+| Metric 2 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 |
+| Metric 3 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 |
+| Metric 4 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 | 0.82 | 0.88 | 0.85 |
 
 ## Modules
 
