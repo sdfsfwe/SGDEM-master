@@ -1,0 +1,1934 @@
+Batch Index: 0, loss_total: 3.8864409923553467, loss_depth: 0.44533371925354004, loss_seg: 2.9957735538482666, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 2.243039131164551, loss_depth: 0.3124392330646515, loss_seg: 1.6181607246398926, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 1.522183895111084, loss_depth: 0.4204842448234558, loss_seg: 0.6812154054641724, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 1.3365890979766846, loss_depth: 0.3235991597175598, loss_seg: 0.6893907785415649, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 1.2072970867156982, loss_depth: 0.22722677886486053, loss_seg: 0.7528434991836548, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 1.5558700561523438, loss_depth: 0.30571678280830383, loss_seg: 0.9444365501403809, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 1.2113304138183594, loss_depth: 0.2848060131072998, loss_seg: 0.6417184472084045, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 1.4865550994873047, loss_depth: 0.36464306712150574, loss_seg: 0.757269024848938, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 1.0450327396392822, loss_depth: 0.24769872426986694, loss_seg: 0.5496352314949036, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 1.0076448917388916, loss_depth: 0.3198181390762329, loss_seg: 0.3680086135864258, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 1.392345666885376, loss_depth: 0.41896113753318787, loss_seg: 0.5544233322143555, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 1.1588270664215088, loss_depth: 0.28735142946243286, loss_seg: 0.5841242671012878, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 1.2617771625518799, loss_depth: 0.3813208043575287, loss_seg: 0.49913549423217773, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 1.0453639030456543, loss_depth: 0.3022136688232422, loss_seg: 0.4409366250038147, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 1.1671130657196045, loss_depth: 0.27402353286743164, loss_seg: 0.6190659403800964, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 1.4166678190231323, loss_depth: 0.48646658658981323, loss_seg: 0.44373461604118347, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.949591338634491, loss_depth: 0.33165544271469116, loss_seg: 0.28628045320510864, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 1.3925482034683228, loss_depth: 0.4143722355365753, loss_seg: 0.5638037323951721, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 1.1568634510040283, loss_depth: 0.2914664149284363, loss_seg: 0.5739306807518005, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.9667749404907227, loss_depth: 0.2753280997276306, loss_seg: 0.41611871123313904, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 1.052634596824646, loss_depth: 0.341626912355423, loss_seg: 0.36938080191612244, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.7836501598358154, loss_depth: 0.22336766123771667, loss_seg: 0.3369148373603821, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.7834578156471252, loss_depth: 0.21020950376987457, loss_seg: 0.3630388081073761, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.9895250797271729, loss_depth: 0.35190874338150024, loss_seg: 0.28570759296417236, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.9515737295150757, loss_depth: 0.3111196458339691, loss_seg: 0.32933440804481506, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.6985450983047485, loss_depth: 0.21235859394073486, loss_seg: 0.2738278806209564, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 1.2768208980560303, loss_depth: 0.3227083086967468, loss_seg: 0.6314042210578918, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 1.371450662612915, loss_depth: 0.3670661747455597, loss_seg: 0.6373183131217957, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.8843725919723511, loss_depth: 0.23769477009773254, loss_seg: 0.4089830219745636, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 1.2357378005981445, loss_depth: 0.4046260714530945, loss_seg: 0.42648571729660034, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 1.1165697574615479, loss_depth: 0.37953633069992065, loss_seg: 0.35749703645706177, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 1.018934726715088, loss_depth: 0.3388463854789734, loss_seg: 0.3412419855594635, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 1.048781156539917, loss_depth: 0.35411375761032104, loss_seg: 0.3405536413192749, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 1.4534332752227783, loss_depth: 0.46660315990448, loss_seg: 0.5202268958091736, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.8873962163925171, loss_depth: 0.25251859426498413, loss_seg: 0.3823590576648712, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 1.0442911386489868, loss_depth: 0.3492858409881592, loss_seg: 0.34571945667266846, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.8826678395271301, loss_depth: 0.28529447317123413, loss_seg: 0.31207889318466187, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 1.0058003664016724, loss_depth: 0.33524030447006226, loss_seg: 0.33531972765922546, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 1.173410177230835, loss_depth: 0.3897348940372467, loss_seg: 0.3939403295516968, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.9070173501968384, loss_depth: 0.33418893814086914, loss_seg: 0.23863950371742249, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.9055410027503967, loss_depth: 0.27377697825431824, loss_seg: 0.35798704624176025, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 1.239713430404663, loss_depth: 0.46403977274894714, loss_seg: 0.3116338849067688, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.7971944808959961, loss_depth: 0.23744451999664307, loss_seg: 0.32230544090270996, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.8564685583114624, loss_depth: 0.3267744779586792, loss_seg: 0.2029195874929428, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.8150485157966614, loss_depth: 0.2629876732826233, loss_seg: 0.2890731692314148, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 1.026497483253479, loss_depth: 0.35592666268348694, loss_seg: 0.31464412808418274, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 1.0010992288589478, loss_depth: 0.32575902342796326, loss_seg: 0.34958115220069885, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.8959245681762695, loss_depth: 0.2717897891998291, loss_seg: 0.35234498977661133, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.9177706241607666, loss_depth: 0.24630975723266602, loss_seg: 0.4251510798931122, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 1.1263396739959717, loss_depth: 0.43816083669662476, loss_seg: 0.25001806020736694, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 1.145148515701294, loss_depth: 0.33453696966171265, loss_seg: 0.4760745167732239, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 0.7856196165084839, loss_depth: 0.2243197113275528, loss_seg: 0.3369802236557007, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 1.2128410339355469, loss_depth: 0.3555305600166321, loss_seg: 0.5017799735069275, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 1.1473381519317627, loss_depth: 0.4306587874889374, loss_seg: 0.2860206067562103, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 1.0042016506195068, loss_depth: 0.33803272247314453, loss_seg: 0.328136146068573, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.8696978092193604, loss_depth: 0.27653443813323975, loss_seg: 0.31662896275520325, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.9502048492431641, loss_depth: 0.3293786942958832, loss_seg: 0.2914474904537201, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.6296783089637756, loss_depth: 0.22679933905601501, loss_seg: 0.1760796308517456, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 1.0131040811538696, loss_depth: 0.3622761368751526, loss_seg: 0.28855180740356445, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 1.0647835731506348, loss_depth: 0.3960786759853363, loss_seg: 0.27262622117996216, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.904874324798584, loss_depth: 0.28080952167510986, loss_seg: 0.34325525164604187, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.8652104139328003, loss_depth: 0.3110944330692291, loss_seg: 0.24302156269550323, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.6979304552078247, loss_depth: 0.22570940852165222, loss_seg: 0.24651163816452026, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.7381974458694458, loss_depth: 0.232246533036232, loss_seg: 0.2737043797969818, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 1.0314624309539795, loss_depth: 0.35554245114326477, loss_seg: 0.32037755846977234, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 1.0953456163406372, loss_depth: 0.4479557275772095, loss_seg: 0.19943420588970184, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.5797858238220215, loss_depth: 0.1813517063856125, loss_seg: 0.2170824110507965, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 1.1352144479751587, loss_depth: 0.39721423387527466, loss_seg: 0.3407859802246094, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.9902675747871399, loss_depth: 0.39357835054397583, loss_seg: 0.20311085879802704, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.7952302694320679, loss_depth: 0.21139279007911682, loss_seg: 0.3724447190761566, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.9437471628189087, loss_depth: 0.3171205222606659, loss_seg: 0.3095061182975769, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 1.0227758884429932, loss_depth: 0.3092940151691437, loss_seg: 0.40418779850006104, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 1.025129795074463, loss_depth: 0.37781018018722534, loss_seg: 0.2695094347000122, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 0.8667477369308472, loss_depth: 0.29808104038238525, loss_seg: 0.2705856263637543, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.9713313579559326, loss_depth: 0.3697556257247925, loss_seg: 0.23182007670402527, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.7123634815216064, loss_depth: 0.19911429286003113, loss_seg: 0.3141349256038666, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.7888327836990356, loss_depth: 0.2271859347820282, loss_seg: 0.33446088433265686, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.8948907852172852, loss_depth: 0.279053270816803, loss_seg: 0.3367842137813568, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 0.9703150987625122, loss_depth: 0.3698877990245819, loss_seg: 0.230539470911026, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.931501030921936, loss_depth: 0.28669336438179016, loss_seg: 0.3581143021583557, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.6716146469116211, loss_depth: 0.1755603849887848, loss_seg: 0.3204938471317291, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 1.1669682264328003, loss_depth: 0.3705739974975586, loss_seg: 0.4258202612400055, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.8694266676902771, loss_depth: 0.31085261702537537, loss_seg: 0.24772143363952637, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 1.0483355522155762, loss_depth: 0.36163756251335144, loss_seg: 0.32506048679351807, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.7515331506729126, loss_depth: 0.2212301641702652, loss_seg: 0.3090728223323822, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 1.1961228847503662, loss_depth: 0.38965272903442383, loss_seg: 0.41681748628616333, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.8570248484611511, loss_depth: 0.28120940923690796, loss_seg: 0.2946060299873352, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.9363223910331726, loss_depth: 0.2851714491844177, loss_seg: 0.36597949266433716, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 1.1027934551239014, loss_depth: 0.42617592215538025, loss_seg: 0.2504415512084961, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.9480242729187012, loss_depth: 0.3629898428916931, loss_seg: 0.22204457223415375, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.9672454595565796, loss_depth: 0.3397602438926697, loss_seg: 0.28772494196891785, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 0.8883579969406128, loss_depth: 0.2871812582015991, loss_seg: 0.31399545073509216, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.9603409767150879, loss_depth: 0.38038381934165955, loss_seg: 0.1995733231306076, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 1.0593819618225098, loss_depth: 0.40487539768218994, loss_seg: 0.2496311068534851, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.9012091755867004, loss_depth: 0.28667521476745605, loss_seg: 0.32785874605178833, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.8619666695594788, loss_depth: 0.28410208225250244, loss_seg: 0.2937625050544739, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 1.0983532667160034, loss_depth: 0.35138118267059326, loss_seg: 0.3955909013748169, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.9392914175987244, loss_depth: 0.33286330103874207, loss_seg: 0.27356481552124023, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 1.0694224834442139, loss_depth: 0.3854108452796936, loss_seg: 0.29860079288482666, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.9134243726730347, loss_depth: 0.3238052725791931, loss_seg: 0.2658138573169708, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.7582125067710876, loss_depth: 0.2906762957572937, loss_seg: 0.17685993015766144, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.9127160906791687, loss_depth: 0.2970966398715973, loss_seg: 0.3185228109359741, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.9222769141197205, loss_depth: 0.33677250146865845, loss_seg: 0.24873192608356476, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.8378812074661255, loss_depth: 0.32311952114105225, loss_seg: 0.191642165184021, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.863162636756897, loss_depth: 0.3335382044315338, loss_seg: 0.19608625769615173, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.8992458581924438, loss_depth: 0.34457117319107056, loss_seg: 0.21010351181030273, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.9439892768859863, loss_depth: 0.2949519753456116, loss_seg: 0.3540852963924408, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.8106880187988281, loss_depth: 0.26644542813301086, loss_seg: 0.277797132730484, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.8005796670913696, loss_depth: 0.26473090052604675, loss_seg: 0.2711178958415985, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 1.0047767162322998, loss_depth: 0.33726683259010315, loss_seg: 0.3302430510520935, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.9589160680770874, loss_depth: 0.3458734154701233, loss_seg: 0.26716920733451843, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 0.85563063621521, loss_depth: 0.2413056492805481, loss_seg: 0.3730193078517914, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.8677014112472534, loss_depth: 0.3135830760002136, loss_seg: 0.24053522944450378, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 0.8070350885391235, loss_depth: 0.2512463629245758, loss_seg: 0.3045423626899719, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.6400535702705383, loss_depth: 0.2283267080783844, loss_seg: 0.18340016901493073, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.8613489270210266, loss_depth: 0.2842403054237366, loss_seg: 0.29286831617355347, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.8571239113807678, loss_depth: 0.2865387201309204, loss_seg: 0.284046471118927, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.8869777917861938, loss_depth: 0.2963593602180481, loss_seg: 0.29425904154777527, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 0.8429576754570007, loss_depth: 0.262018084526062, loss_seg: 0.3189215064048767, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.8134826421737671, loss_depth: 0.2781676948070526, loss_seg: 0.2571472227573395, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.7182468175888062, loss_depth: 0.22921529412269592, loss_seg: 0.2598161995410919, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 1.0542025566101074, loss_depth: 0.36258968710899353, loss_seg: 0.32902321219444275, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 1.0396085977554321, loss_depth: 0.37519195675849915, loss_seg: 0.28922465443611145, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 1.230391025543213, loss_depth: 0.4488009810447693, loss_seg: 0.33278903365135193, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.8630107641220093, loss_depth: 0.3175366520881653, loss_seg: 0.22793743014335632, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.8359324932098389, loss_depth: 0.31048861145973206, loss_seg: 0.21495530009269714, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.6710132360458374, loss_depth: 0.19777464866638184, loss_seg: 0.27546393871307373, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 1.0448813438415527, loss_depth: 0.3942662179470062, loss_seg: 0.25634893774986267, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.6202061772346497, loss_depth: 0.18573719263076782, loss_seg: 0.24873177707195282, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.9567568898200989, loss_depth: 0.38294675946235657, loss_seg: 0.19086338579654694, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.9290131330490112, loss_depth: 0.31384992599487305, loss_seg: 0.30131328105926514, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 0.833449125289917, loss_depth: 0.3152877390384674, loss_seg: 0.20287363231182098, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 1.1870102882385254, loss_depth: 0.455898642539978, loss_seg: 0.27521297335624695, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 1.0256307125091553, loss_depth: 0.37236732244491577, loss_seg: 0.2808960974216461, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.8886749744415283, loss_depth: 0.2837143540382385, loss_seg: 0.32124629616737366, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 1.2882574796676636, loss_depth: 0.46816784143447876, loss_seg: 0.35192182660102844, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.8191992044448853, loss_depth: 0.2791672945022583, loss_seg: 0.26086461544036865, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.3116287589073181, loss_depth: 0.01680001989006996, loss_seg: 0.2780287265777588, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 0.6776860952377319, loss_depth: 0.1924847960472107, loss_seg: 0.29271647334098816, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 1.1874659061431885, loss_depth: 0.4462977647781372, loss_seg: 0.29487037658691406, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 1.095656156539917, loss_depth: 0.4061567783355713, loss_seg: 0.2833426296710968, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.9122674465179443, loss_depth: 0.3255925476551056, loss_seg: 0.26108232140541077, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.8868928551673889, loss_depth: 0.3524898886680603, loss_seg: 0.18191306293010712, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.9359177350997925, loss_depth: 0.3150436282157898, loss_seg: 0.3058304488658905, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 1.0088119506835938, loss_depth: 0.3800281584262848, loss_seg: 0.24875563383102417, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.8611843585968018, loss_depth: 0.2954259216785431, loss_seg: 0.2703324854373932, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.8424105048179626, loss_depth: 0.2863112688064575, loss_seg: 0.2697879672050476, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.7904917597770691, loss_depth: 0.31327858567237854, loss_seg: 0.1639346033334732, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.650833249092102, loss_depth: 0.1588057279586792, loss_seg: 0.33322179317474365, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.9939767122268677, loss_depth: 0.34878233075141907, loss_seg: 0.29641205072402954, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.8975228667259216, loss_depth: 0.31724584102630615, loss_seg: 0.2630311846733093, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 1.2027935981750488, loss_depth: 0.44654154777526855, loss_seg: 0.3097105324268341, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.7023155093193054, loss_depth: 0.25101691484451294, loss_seg: 0.20028167963027954, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 0.9684182405471802, loss_depth: 0.33016422390937805, loss_seg: 0.30808982253074646, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.5728659629821777, loss_depth: 0.17401525378227234, loss_seg: 0.22483544051647186, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.662689745426178, loss_depth: 0.25850141048431396, loss_seg: 0.14568693935871124, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 1.2200912237167358, loss_depth: 0.43724745512008667, loss_seg: 0.3455963134765625, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.8501783013343811, loss_depth: 0.28739768266677856, loss_seg: 0.275382936000824, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 0.6983967423439026, loss_depth: 0.2628231644630432, loss_seg: 0.17275041341781616, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.9898808598518372, loss_depth: 0.350484162569046, loss_seg: 0.2889125347137451, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.6503746509552002, loss_depth: 0.2145637571811676, loss_seg: 0.2212471216917038, loss_patch: 0
+epoch: 8, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.6136970520019531, loss_depth: 0.22669346630573273, loss_seg: 0.16031014919281006, loss_patch: 0
+epoch: 8, the number of patch succeeded: 217
+Batch Index: 1000, loss_total: 0.9147962927818298, loss_depth: 0.3355124592781067, loss_seg: 0.23400333523750305, loss_patch: 0.004884032066911459
+epoch: 8, the number of patch succeeded: 419
+Batch Index: 1500, loss_total: 0.9430286884307861, loss_depth: 0.35784345865249634, loss_seg: 0.22734174132347107, loss_patch: 0
+epoch: 8, the number of patch succeeded: 633
+Batch Index: 2000, loss_total: 0.8803212642669678, loss_depth: 0.3104979693889618, loss_seg: 0.2593253552913666, loss_patch: 0
+epoch: 8, the number of patch succeeded: 843
+Batch Index: 2500, loss_total: 1.0595004558563232, loss_depth: 0.3734050393104553, loss_seg: 0.30163469910621643, loss_patch: 0.005527828354388475
+epoch: 8, the number of patch succeeded: 1057
+Batch Index: 3000, loss_total: 1.0512981414794922, loss_depth: 0.38874536752700806, loss_seg: 0.2663589417934418, loss_patch: 0.003724214620888233
+epoch: 8, the number of patch succeeded: 1264
+Batch Index: 3500, loss_total: 0.7634701132774353, loss_depth: 0.27584540843963623, loss_seg: 0.17155708372592926, loss_patch: 0.020111124962568283
+epoch: 8, the number of patch succeeded: 1461
+Batch Index: 4000, loss_total: 0.9533785581588745, loss_depth: 0.3430810570716858, loss_seg: 0.25613752007484436, loss_patch: 0.005539470352232456
+epoch: 8, the number of patch succeeded: 1674
+Batch Index: 4500, loss_total: 1.1724393367767334, loss_depth: 0.4563257694244385, loss_seg: 0.25978779792785645, loss_patch: 0
+epoch: 8, the number of patch succeeded: 1875
+Batch Index: 5000, loss_total: 1.1835795640945435, loss_depth: 0.4438074231147766, loss_seg: 0.29596468806266785, loss_patch: 0
+epoch: 8, the number of patch succeeded: 2085
+Batch Index: 5500, loss_total: 1.0850454568862915, loss_depth: 0.3907968997955322, loss_seg: 0.28868237137794495, loss_patch: 0.0073846871964633465
+epoch: 8, the number of patch succeeded: 2287
+Batch Index: 6000, loss_total: 1.187678575515747, loss_depth: 0.47709622979164124, loss_seg: 0.2334861308336258, loss_patch: 0
+epoch: 8, the number of patch succeeded: 2528
+Batch Index: 6500, loss_total: 0.7868050336837769, loss_depth: 0.26751452684402466, loss_seg: 0.2517760097980499, loss_patch: 0
+epoch: 8, the number of patch succeeded: 2756
+Batch Index: 7000, loss_total: 0.8868289589881897, loss_depth: 0.321199893951416, loss_seg: 0.24442915618419647, loss_patch: 0
+epoch: 8, the number of patch succeeded: 2965
+Batch Index: 7500, loss_total: 0.9105655550956726, loss_depth: 0.3820096254348755, loss_seg: 0.14654630422592163, loss_patch: 0
+epoch: 8, the number of patch succeeded: 3166
+Batch Index: 8000, loss_total: 1.1362683773040771, loss_depth: 0.42880773544311523, loss_seg: 0.2786528468132019, loss_patch: 0
+epoch: 8, the number of patch succeeded: 3369
+Batch Index: 8500, loss_total: 0.9917730093002319, loss_depth: 0.37848395109176636, loss_seg: 0.23480510711669922, loss_patch: 0
+epoch: 8, the number of patch succeeded: 3579
+Batch Index: 9000, loss_total: 0.5738116502761841, loss_depth: 0.1931006908416748, loss_seg: 0.18761028349399567, loss_patch: 0
+epoch: 8, the number of patch succeeded: 3792
+Batch Index: 9500, loss_total: 0.9660332202911377, loss_depth: 0.36897173523902893, loss_seg: 0.21761968731880188, loss_patch: 0.005235001444816589
+epoch: 8, the number of patch succeeded: 3998
+Batch Index: 0, loss_total: 0.9004456996917725, loss_depth: 0.3235936462879181, loss_seg: 0.24462461471557617, loss_patch: 0.004316895268857479
+epoch: 9, the number of patch succeeded: 1
+Batch Index: 500, loss_total: 0.8900706768035889, loss_depth: 0.33146247267723083, loss_seg: 0.227145716547966, loss_patch: 0
+epoch: 9, the number of patch succeeded: 207
+Batch Index: 1000, loss_total: 1.149896502494812, loss_depth: 0.4188876450061798, loss_seg: 0.26070818305015564, loss_patch: 0.025706525892019272
+epoch: 9, the number of patch succeeded: 407
+Batch Index: 1500, loss_total: 0.915587842464447, loss_depth: 0.29526710510253906, loss_seg: 0.3250536322593689, loss_patch: 0
+epoch: 9, the number of patch succeeded: 626
+Batch Index: 2000, loss_total: 1.1996119022369385, loss_depth: 0.4744749069213867, loss_seg: 0.2506621181964874, loss_patch: 0
+epoch: 9, the number of patch succeeded: 844
+Batch Index: 2500, loss_total: 1.0824310779571533, loss_depth: 0.3970664441585541, loss_seg: 0.28270140290260315, loss_patch: 0.0027983819600194693
+epoch: 9, the number of patch succeeded: 1062
+Batch Index: 3000, loss_total: 0.658865213394165, loss_depth: 0.1989709585905075, loss_seg: 0.2609233260154724, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1285
+Batch Index: 3500, loss_total: 1.1167590618133545, loss_depth: 0.41413819789886475, loss_seg: 0.2884827256202698, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1486
+Batch Index: 4000, loss_total: 1.0894980430603027, loss_depth: 0.40474963188171387, loss_seg: 0.2799987494945526, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1688
+Batch Index: 4500, loss_total: 0.7968592047691345, loss_depth: 0.2443699836730957, loss_seg: 0.3081192374229431, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1904
+Batch Index: 5000, loss_total: 0.888492226600647, loss_depth: 0.28545528650283813, loss_seg: 0.3175816535949707, loss_patch: 0
+epoch: 9, the number of patch succeeded: 2110
+Batch Index: 5500, loss_total: 0.7668936848640442, loss_depth: 0.25583845376968384, loss_seg: 0.2552167773246765, loss_patch: 0
+epoch: 9, the number of patch succeeded: 2330
+Batch Index: 6000, loss_total: 0.7640784382820129, loss_depth: 0.2726203203201294, loss_seg: 0.21883781254291534, loss_patch: 0
+epoch: 9, the number of patch succeeded: 2540
+Batch Index: 6500, loss_total: 0.8703749179840088, loss_depth: 0.2655531167984009, loss_seg: 0.3114999234676361, loss_patch: 0.013884351588785648
+epoch: 9, the number of patch succeeded: 2762
+Batch Index: 0, loss_total: 0.7735294103622437, loss_depth: 0.2823520004749298, loss_seg: 0.20882537961006165, loss_patch: 0
+epoch: 9, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.7017334699630737, loss_depth: 0.22963164746761322, loss_seg: 0.2424701601266861, loss_patch: 0
+epoch: 9, the number of patch succeeded: 221
+Batch Index: 1000, loss_total: 0.8477528095245361, loss_depth: 0.2688600718975067, loss_seg: 0.3100326359272003, loss_patch: 0
+epoch: 9, the number of patch succeeded: 435
+Batch Index: 1500, loss_total: 1.1444687843322754, loss_depth: 0.42484205961227417, loss_seg: 0.29478466510772705, loss_patch: 0
+epoch: 9, the number of patch succeeded: 661
+Batch Index: 2000, loss_total: 1.0305756330490112, loss_depth: 0.3968397080898285, loss_seg: 0.23689617216587067, loss_patch: 0
+epoch: 9, the number of patch succeeded: 875
+Batch Index: 2500, loss_total: 0.7491620779037476, loss_depth: 0.24003589153289795, loss_seg: 0.26909032464027405, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1097
+Batch Index: 3000, loss_total: 1.019742488861084, loss_depth: 0.39120492339134216, loss_seg: 0.23733262717723846, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1307
+Batch Index: 3500, loss_total: 0.5987918376922607, loss_depth: 0.18531398475170135, loss_seg: 0.22816386818885803, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1513
+Batch Index: 4000, loss_total: 0.6878219246864319, loss_depth: 0.2392316311597824, loss_seg: 0.20935866236686707, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1709
+Batch Index: 4500, loss_total: 0.7451432347297668, loss_depth: 0.27525055408477783, loss_seg: 0.19464212656021118, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1920
+Batch Index: 5000, loss_total: 1.064545750617981, loss_depth: 0.4246158003807068, loss_seg: 0.20728690922260284, loss_patch: 0.004013602621853352
+epoch: 9, the number of patch succeeded: 2141
+Batch Index: 5500, loss_total: 0.7473058700561523, loss_depth: 0.2871611714363098, loss_seg: 0.1729835420846939, loss_patch: 0
+epoch: 9, the number of patch succeeded: 2349
+Batch Index: 6000, loss_total: 0.6501907110214233, loss_depth: 0.2083318829536438, loss_seg: 0.23352694511413574, loss_patch: 0
+epoch: 9, the number of patch succeeded: 2551
+Batch Index: 6500, loss_total: 0.9421923756599426, loss_depth: 0.3570747971534729, loss_seg: 0.19986656308174133, loss_patch: 0.014088115654885769
+epoch: 9, the number of patch succeeded: 2757
+Batch Index: 7000, loss_total: 1.136620044708252, loss_depth: 0.4456084370613098, loss_seg: 0.2454032301902771, loss_patch: 0
+epoch: 9, the number of patch succeeded: 2969
+Batch Index: 7500, loss_total: 1.113968849182129, loss_depth: 0.42344605922698975, loss_seg: 0.267076700925827, loss_patch: 0
+epoch: 9, the number of patch succeeded: 3172
+Batch Index: 8000, loss_total: 0.8298072814941406, loss_depth: 0.33316391706466675, loss_seg: 0.1509125679731369, loss_patch: 0.006283437833189964
+epoch: 9, the number of patch succeeded: 3372
+Batch Index: 8500, loss_total: 0.7318844199180603, loss_depth: 0.24358628690242767, loss_seg: 0.2215515524148941, loss_patch: 0.011580144055187702
+epoch: 9, the number of patch succeeded: 3570
+Batch Index: 9000, loss_total: 0.7914843559265137, loss_depth: 0.27526232600212097, loss_seg: 0.2370801419019699, loss_patch: 0.0019397627329453826
+epoch: 9, the number of patch succeeded: 3773
+Batch Index: 9500, loss_total: 1.1728156805038452, loss_depth: 0.46759289503097534, loss_seg: 0.23762987554073334, loss_patch: 0
+epoch: 9, the number of patch succeeded: 3984
+Batch Index: 0, loss_total: 0.8292015194892883, loss_depth: 0.28519830107688904, loss_seg: 0.25880491733551025, loss_patch: 0
+epoch: 10, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.8278113007545471, loss_depth: 0.2590196132659912, loss_seg: 0.3097720742225647, loss_patch: 0
+epoch: 10, the number of patch succeeded: 204
+Batch Index: 1000, loss_total: 0.90492844581604, loss_depth: 0.31352782249450684, loss_seg: 0.27787283062934875, loss_patch: 0
+epoch: 10, the number of patch succeeded: 408
+Batch Index: 1500, loss_total: 0.8721048831939697, loss_depth: 0.3010496199131012, loss_seg: 0.2700056731700897, loss_patch: 0
+epoch: 10, the number of patch succeeded: 624
+Batch Index: 2000, loss_total: 0.8515433669090271, loss_depth: 0.31414616107940674, loss_seg: 0.22325102984905243, loss_patch: 0
+epoch: 10, the number of patch succeeded: 829
+Batch Index: 2500, loss_total: 0.6360297799110413, loss_depth: 0.20548206567764282, loss_seg: 0.22506564855575562, loss_patch: 0
+epoch: 10, the number of patch succeeded: 1035
+Batch Index: 3000, loss_total: 0.9369409680366516, loss_depth: 0.3710800111293793, loss_seg: 0.19478093087673187, loss_patch: 0
+epoch: 10, the number of patch succeeded: 1238
+Batch Index: 3500, loss_total: 0.9085765480995178, loss_depth: 0.332980751991272, loss_seg: 0.24261505901813507, loss_patch: 0
+epoch: 10, the number of patch succeeded: 1440
+Batch Index: 4000, loss_total: 1.024648666381836, loss_depth: 0.4093971848487854, loss_seg: 0.20585426688194275, loss_patch: 0
+epoch: 10, the number of patch succeeded: 1647
+Batch Index: 4500, loss_total: 0.8174058198928833, loss_depth: 0.26877903938293457, loss_seg: 0.26311975717544556, loss_patch: 0.008363986387848854
+epoch: 10, the number of patch succeeded: 1841
+Batch Index: 5000, loss_total: 0.8224704265594482, loss_depth: 0.2858582139015198, loss_seg: 0.2507539689540863, loss_patch: 0
+epoch: 10, the number of patch succeeded: 2034
+Batch Index: 5500, loss_total: 1.1668782234191895, loss_depth: 0.42120659351348877, loss_seg: 0.3244650363922119, loss_patch: 0
+epoch: 10, the number of patch succeeded: 2251
+Batch Index: 6000, loss_total: 0.703169047832489, loss_depth: 0.2205304652452469, loss_seg: 0.24812926352024078, loss_patch: 0.006989429239183664
+epoch: 10, the number of patch succeeded: 2452
+Batch Index: 6500, loss_total: 0.6597070097923279, loss_depth: 0.1946571171283722, loss_seg: 0.2703927755355835, loss_patch: 0
+epoch: 10, the number of patch succeeded: 2656
+Batch Index: 7000, loss_total: 0.7075499296188354, loss_depth: 0.23936672508716583, loss_seg: 0.2288164496421814, loss_patch: 0
+epoch: 10, the number of patch succeeded: 2850
+Batch Index: 7500, loss_total: 0.7755590677261353, loss_depth: 0.2635314166545868, loss_seg: 0.24849623441696167, loss_patch: 0
+epoch: 10, the number of patch succeeded: 3048
+Batch Index: 8000, loss_total: 0.548038899898529, loss_depth: 0.1692480444908142, loss_seg: 0.19251678884029388, loss_patch: 0.008512991480529308
+epoch: 10, the number of patch succeeded: 3265
+Batch Index: 8500, loss_total: 0.5472587943077087, loss_depth: 0.12152040004730225, loss_seg: 0.28700461983680725, loss_patch: 0.008606701157987118
+epoch: 10, the number of patch succeeded: 3474
+Batch Index: 9000, loss_total: 0.8601981401443481, loss_depth: 0.3118637204170227, loss_seg: 0.23647069931030273, loss_patch: 0
+epoch: 10, the number of patch succeeded: 3677
+Batch Index: 9500, loss_total: 0.6757935285568237, loss_depth: 0.22720655798912048, loss_seg: 0.22138039767742157, loss_patch: 0
+epoch: 10, the number of patch succeeded: 3877
+Batch Index: 0, loss_total: 1.37617826461792, loss_depth: 0.5293129682540894, loss_seg: 0.31065741181373596, loss_patch: 0.0034474816638976336
+epoch: 11, the number of patch succeeded: 1
+Batch Index: 500, loss_total: 0.9983336925506592, loss_depth: 0.3539009094238281, loss_seg: 0.25212231278419495, loss_patch: 0.01920478232204914
+epoch: 11, the number of patch succeeded: 187
+Batch Index: 1000, loss_total: 0.7467756271362305, loss_depth: 0.23838427662849426, loss_seg: 0.27000710368156433, loss_patch: 0
+epoch: 11, the number of patch succeeded: 396
+Batch Index: 1500, loss_total: 1.0436761379241943, loss_depth: 0.4209498167037964, loss_seg: 0.20177654922008514, loss_patch: 0
+epoch: 11, the number of patch succeeded: 590
+Batch Index: 0, loss_total: 3.799654245376587, loss_depth: 0.40356650948524475, loss_seg: 2.992521286010742, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 2.371372938156128, loss_depth: 0.43390387296676636, loss_seg: 1.5035651922225952, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 2.046931266784668, loss_depth: 0.28136730194091797, loss_seg: 1.4841967821121216, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 1.857255220413208, loss_depth: 0.3104313015937805, loss_seg: 1.236392617225647, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 1.3027946949005127, loss_depth: 0.3620798885822296, loss_seg: 0.5786349177360535, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 1.196730613708496, loss_depth: 0.3153969943523407, loss_seg: 0.5659366846084595, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 1.1485240459442139, loss_depth: 0.33688753843307495, loss_seg: 0.47474899888038635, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 1.2147890329360962, loss_depth: 0.3508536219596863, loss_seg: 0.5130817890167236, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 1.2797470092773438, loss_depth: 0.39323699474334717, loss_seg: 0.49327296018600464, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 1.4911365509033203, loss_depth: 0.4309232532978058, loss_seg: 0.6292900443077087, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 1.0070452690124512, loss_depth: 0.3098635673522949, loss_seg: 0.38731813430786133, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 1.100250244140625, loss_depth: 0.3267775774002075, loss_seg: 0.44669514894485474, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.9114531874656677, loss_depth: 0.22389963269233704, loss_seg: 0.46365392208099365, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 1.4183168411254883, loss_depth: 0.48707258701324463, loss_seg: 0.444171667098999, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 1.0585108995437622, loss_depth: 0.29566192626953125, loss_seg: 0.4671870172023773, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 1.4260926246643066, loss_depth: 0.34830066561698914, loss_seg: 0.7294912338256836, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.7365065813064575, loss_depth: 0.2104261815547943, loss_seg: 0.3156542479991913, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 1.1763664484024048, loss_depth: 0.38799571990966797, loss_seg: 0.40037497878074646, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 1.08198082447052, loss_depth: 0.3037692904472351, loss_seg: 0.4744422435760498, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 1.1335644721984863, loss_depth: 0.4170076847076416, loss_seg: 0.2995491027832031, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 1.201764464378357, loss_depth: 0.47473716735839844, loss_seg: 0.25229009985923767, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 1.266111969947815, loss_depth: 0.4660387337207794, loss_seg: 0.3340345025062561, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 1.1745553016662598, loss_depth: 0.43102508783340454, loss_seg: 0.3125051259994507, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.9290639162063599, loss_depth: 0.31725019216537476, loss_seg: 0.29456356167793274, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 1.1755893230438232, loss_depth: 0.3703698217868805, loss_seg: 0.43484967947006226, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 1.247489094734192, loss_depth: 0.47943538427352905, loss_seg: 0.2886183261871338, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 1.1543149948120117, loss_depth: 0.36669400334358215, loss_seg: 0.4209270477294922, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.7904276847839355, loss_depth: 0.2441318929195404, loss_seg: 0.30216386914253235, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 1.1612181663513184, loss_depth: 0.35312506556510925, loss_seg: 0.45496800541877747, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 1.0337358713150024, loss_depth: 0.37410691380500793, loss_seg: 0.28552207350730896, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 1.5781625509262085, loss_depth: 0.4368995428085327, loss_seg: 0.7043634653091431, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 1.1555665731430054, loss_depth: 0.3514595031738281, loss_seg: 0.4526475667953491, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.9977657794952393, loss_depth: 0.28713756799697876, loss_seg: 0.4234906733036041, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 1.081916332244873, loss_depth: 0.3058777153491974, loss_seg: 0.4701608717441559, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 1.2571704387664795, loss_depth: 0.4453273415565491, loss_seg: 0.36651572585105896, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 1.2706913948059082, loss_depth: 0.35748380422592163, loss_seg: 0.5557238459587097, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.9399323463439941, loss_depth: 0.28418275713920593, loss_seg: 0.3715668022632599, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.9762259721755981, loss_depth: 0.3132631778717041, loss_seg: 0.34969958662986755, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 1.1520613431930542, loss_depth: 0.41310590505599976, loss_seg: 0.3258495330810547, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 1.2544008493423462, loss_depth: 0.47411441802978516, loss_seg: 0.3061720132827759, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.9214617609977722, loss_depth: 0.2699798345565796, loss_seg: 0.38150209188461304, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 1.1553153991699219, loss_depth: 0.40597373247146606, loss_seg: 0.34336787462234497, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.8155002593994141, loss_depth: 0.33688804507255554, loss_seg: 0.1417241394519806, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 1.1235909461975098, loss_depth: 0.40470582246780396, loss_seg: 0.31417927145957947, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 1.251926302909851, loss_depth: 0.42624741792678833, loss_seg: 0.3994314968585968, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 1.234436273574829, loss_depth: 0.4964650273323059, loss_seg: 0.2415061891078949, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.8832722902297974, loss_depth: 0.28529632091522217, loss_seg: 0.3126796782016754, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.9541209936141968, loss_depth: 0.2645457088947296, loss_seg: 0.42502960562705994, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 1.1830673217773438, loss_depth: 0.35872554779052734, loss_seg: 0.46561622619628906, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.8993943929672241, loss_depth: 0.2905849814414978, loss_seg: 0.3182244598865509, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.8809500932693481, loss_depth: 0.33932122588157654, loss_seg: 0.20230762660503387, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 1.1316853761672974, loss_depth: 0.3873329162597656, loss_seg: 0.3570195734500885, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 1.092963695526123, loss_depth: 0.3801838159561157, loss_seg: 0.332596093416214, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 0.8308894634246826, loss_depth: 0.32039874792099, loss_seg: 0.19009199738502502, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.8103002309799194, loss_depth: 0.27436643838882446, loss_seg: 0.2615673542022705, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.900408923625946, loss_depth: 0.2700420320034027, loss_seg: 0.3603248596191406, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 1.1806637048721313, loss_depth: 0.38910871744155884, loss_seg: 0.40244629979133606, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 1.1450738906860352, loss_depth: 0.29174983501434326, loss_seg: 0.5615742206573486, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 0.7876487374305725, loss_depth: 0.23500894010066986, loss_seg: 0.3176308572292328, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 1.1530768871307373, loss_depth: 0.38587701320648193, loss_seg: 0.38132283091545105, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 1.0181158781051636, loss_depth: 0.34791865944862366, loss_seg: 0.32227852940559387, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.834319531917572, loss_depth: 0.2800871729850769, loss_seg: 0.2741451859474182, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 1.0885627269744873, loss_depth: 0.34781813621520996, loss_seg: 0.39292648434638977, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.9073591232299805, loss_depth: 0.2996213436126709, loss_seg: 0.3081164062023163, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.985235333442688, loss_depth: 0.30044275522232056, loss_seg: 0.3843497931957245, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 1.1200922727584839, loss_depth: 0.44342270493507385, loss_seg: 0.23324689269065857, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.9203454852104187, loss_depth: 0.3144077956676483, loss_seg: 0.29152989387512207, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.8253659009933472, loss_depth: 0.27145248651504517, loss_seg: 0.2824609577655792, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 1.2639186382293701, loss_depth: 0.3985704183578491, loss_seg: 0.4667778015136719, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.7768299579620361, loss_depth: 0.21921269595623016, loss_seg: 0.3384045660495758, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.9014232158660889, loss_depth: 0.2936595678329468, loss_seg: 0.3141040802001953, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 1.024936318397522, loss_depth: 0.3559165596961975, loss_seg: 0.31310322880744934, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.93586266040802, loss_depth: 0.3048400282859802, loss_seg: 0.32618263363838196, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 1.2664520740509033, loss_depth: 0.4601607322692871, loss_seg: 0.3461306095123291, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.8160157799720764, loss_depth: 0.26920822262763977, loss_seg: 0.2775993347167969, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.7754356861114502, loss_depth: 0.21541710197925568, loss_seg: 0.34460148215293884, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.8948776125907898, loss_depth: 0.3123401403427124, loss_seg: 0.270197331905365, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.9911529421806335, loss_depth: 0.3852340579032898, loss_seg: 0.22068482637405396, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 0.8961278796195984, loss_depth: 0.31470805406570435, loss_seg: 0.2667117714881897, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.927148163318634, loss_depth: 0.3166190981864929, loss_seg: 0.2939099669456482, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 1.134446382522583, loss_depth: 0.3698005974292755, loss_seg: 0.3948451280593872, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.8651926517486572, loss_depth: 0.24394109845161438, loss_seg: 0.37731048464775085, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.6219890117645264, loss_depth: 0.1484159678220749, loss_seg: 0.325157105922699, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.5736821889877319, loss_depth: 0.11035039275884628, loss_seg: 0.35298141837120056, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.8615556955337524, loss_depth: 0.3185597360134125, loss_seg: 0.2244362086057663, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.9671294689178467, loss_depth: 0.3342089056968689, loss_seg: 0.2987116277217865, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.9949774742126465, loss_depth: 0.34202057123184204, loss_seg: 0.31093630194664, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.7528725266456604, loss_depth: 0.22780895233154297, loss_seg: 0.29725462198257446, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 1.0140902996063232, loss_depth: 0.3705694079399109, loss_seg: 0.2729514539241791, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 1.0426956415176392, loss_depth: 0.3896166980266571, loss_seg: 0.26346224546432495, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 1.081737756729126, loss_depth: 0.40312135219573975, loss_seg: 0.27549508213996887, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 0.6706415414810181, loss_depth: 0.20219126343727112, loss_seg: 0.26625898480415344, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.8418103456497192, loss_depth: 0.2600582540035248, loss_seg: 0.32169386744499207, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 1.1536061763763428, loss_depth: 0.42849200963974, loss_seg: 0.29662221670150757, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 1.18986976146698, loss_depth: 0.4024173617362976, loss_seg: 0.38503503799438477, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.8850674629211426, loss_depth: 0.29608285427093506, loss_seg: 0.29290175437927246, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 1.1937564611434937, loss_depth: 0.3913150429725647, loss_seg: 0.41112640500068665, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 1.153993844985962, loss_depth: 0.4396137595176697, loss_seg: 0.27476638555526733, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 0.7919317483901978, loss_depth: 0.2730281949043274, loss_seg: 0.24587534368038177, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.7344403266906738, loss_depth: 0.2097533941268921, loss_seg: 0.31493356823921204, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 1.0863398313522339, loss_depth: 0.41338419914245605, loss_seg: 0.2595714330673218, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.757060170173645, loss_depth: 0.260867178440094, loss_seg: 0.23532578349113464, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 1.015964150428772, loss_depth: 0.3079039454460144, loss_seg: 0.40015625953674316, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.6137628555297852, loss_depth: 0.1939733773469925, loss_seg: 0.22581611573696136, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 1.0332856178283691, loss_depth: 0.35566437244415283, loss_seg: 0.32195693254470825, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.8146822452545166, loss_depth: 0.3249659538269043, loss_seg: 0.164750337600708, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 1.1950608491897583, loss_depth: 0.4369814395904541, loss_seg: 0.3210979998111725, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 1.0615345239639282, loss_depth: 0.37128856778144836, loss_seg: 0.3189573884010315, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.9982778429985046, loss_depth: 0.3608584702014923, loss_seg: 0.27656090259552, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.9364885091781616, loss_depth: 0.2864358425140381, loss_seg: 0.36361685395240784, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.62618088722229, loss_depth: 0.21086761355400085, loss_seg: 0.20444568991661072, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 0.7982032895088196, loss_depth: 0.25108158588409424, loss_seg: 0.2960401177406311, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.7863548994064331, loss_depth: 0.30068883299827576, loss_seg: 0.18497726321220398, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 0.9279313087463379, loss_depth: 0.3325918912887573, loss_seg: 0.26274752616882324, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.7644396424293518, loss_depth: 0.25532492995262146, loss_seg: 0.2537897825241089, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 1.1541852951049805, loss_depth: 0.4309470057487488, loss_seg: 0.2922913134098053, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.8023613095283508, loss_depth: 0.24541912972927094, loss_seg: 0.31152305006980896, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 1.011911392211914, loss_depth: 0.3419598340988159, loss_seg: 0.3279917240142822, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 1.0540188550949097, loss_depth: 0.370860755443573, loss_seg: 0.31229734420776367, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.6178411841392517, loss_depth: 0.21446940302848816, loss_seg: 0.1889023780822754, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.9902918934822083, loss_depth: 0.3539608120918274, loss_seg: 0.28237026929855347, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 1.025478720664978, loss_depth: 0.3855673670768738, loss_seg: 0.25434401631355286, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 1.146182656288147, loss_depth: 0.41780921816825867, loss_seg: 0.31056421995162964, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.7294074296951294, loss_depth: 0.2384663075208664, loss_seg: 0.2524747848510742, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.8046046495437622, loss_depth: 0.30558910965919495, loss_seg: 0.1934264600276947, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.7848907113075256, loss_depth: 0.23154039680957794, loss_seg: 0.32180991768836975, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 1.0355544090270996, loss_depth: 0.34172123670578003, loss_seg: 0.35211196541786194, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.8830530643463135, loss_depth: 0.311072438955307, loss_seg: 0.26090818643569946, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.8019837141036987, loss_depth: 0.28485962748527527, loss_seg: 0.2322644293308258, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.717301607131958, loss_depth: 0.2608634829521179, loss_seg: 0.19557465612888336, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.9203948974609375, loss_depth: 0.2775895595550537, loss_seg: 0.36521580815315247, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 0.921772837638855, loss_depth: 0.3362468481063843, loss_seg: 0.24927912652492523, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.8274787664413452, loss_depth: 0.2691378593444824, loss_seg: 0.28920304775238037, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 0.7279785871505737, loss_depth: 0.2629687786102295, loss_seg: 0.20204102993011475, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.7981301546096802, loss_depth: 0.29127153754234314, loss_seg: 0.2155870497226715, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 1.1190592050552368, loss_depth: 0.4089697301387787, loss_seg: 0.30111971497535706, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 1.077965259552002, loss_depth: 0.4284438490867615, loss_seg: 0.221077561378479, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 1.1311525106430054, loss_depth: 0.3744090795516968, loss_seg: 0.38233432173728943, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 1.0242743492126465, loss_depth: 0.38511353731155396, loss_seg: 0.2540472745895386, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.8554480671882629, loss_depth: 0.2783522605895996, loss_seg: 0.2987435460090637, loss_patch: 0
+epoch: 6, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 1.104278802871704, loss_depth: 0.40381932258605957, loss_seg: 0.2966400980949402, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.9362360835075378, loss_depth: 0.3689475953578949, loss_seg: 0.19834089279174805, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 1.012393593788147, loss_depth: 0.34480419754981995, loss_seg: 0.3227851986885071, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.7838813066482544, loss_depth: 0.2758863866329193, loss_seg: 0.23210853338241577, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.9961687922477722, loss_depth: 0.2913703918457031, loss_seg: 0.41342800855636597, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 1.2725619077682495, loss_depth: 0.49983707070350647, loss_seg: 0.27288779616355896, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.803654670715332, loss_depth: 0.27812594175338745, loss_seg: 0.24740275740623474, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.7972807884216309, loss_depth: 0.2906325161457062, loss_seg: 0.2160157859325409, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.9445122480392456, loss_depth: 0.32346752285957336, loss_seg: 0.29757723212242126, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.7808848023414612, loss_depth: 0.29323866963386536, loss_seg: 0.19440746307373047, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.74201899766922, loss_depth: 0.26155170798301697, loss_seg: 0.21891558170318604, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 0.7371717691421509, loss_depth: 0.2388915717601776, loss_seg: 0.25938862562179565, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.931627631187439, loss_depth: 0.3230637311935425, loss_seg: 0.2855001986026764, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 0.7439931035041809, loss_depth: 0.258267343044281, loss_seg: 0.2274584323167801, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 1.1614528894424438, loss_depth: 0.4546450674533844, loss_seg: 0.25216275453567505, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.9254038333892822, loss_depth: 0.25431087613105774, loss_seg: 0.41678208112716675, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.8162039518356323, loss_depth: 0.31275227665901184, loss_seg: 0.19069938361644745, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.9111886620521545, loss_depth: 0.3427203893661499, loss_seg: 0.22574788331985474, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 1.0337127447128296, loss_depth: 0.3889422118663788, loss_seg: 0.255828320980072, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.9175680875778198, loss_depth: 0.32992857694625854, loss_seg: 0.2577109634876251, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.7218953371047974, loss_depth: 0.23015442490577698, loss_seg: 0.24080413579940796, loss_patch: 0.010391165502369404
+epoch: 8, the number of patch succeeded: 1
+Batch Index: 500, loss_total: 0.6928458213806152, loss_depth: 0.21940529346466064, loss_seg: 0.24783353507518768, loss_patch: 0.0031008408404886723
+epoch: 8, the number of patch succeeded: 219
+Batch Index: 1000, loss_total: 0.9898026585578918, loss_depth: 0.3793671131134033, loss_seg: 0.2242548018693924, loss_patch: 0.0034068350214511156
+epoch: 8, the number of patch succeeded: 413
+Batch Index: 1500, loss_total: 1.0207321643829346, loss_depth: 0.3740476965904236, loss_seg: 0.2726367115974426, loss_patch: 0
+epoch: 8, the number of patch succeeded: 626
+Batch Index: 2000, loss_total: 1.0339850187301636, loss_depth: 0.38878655433654785, loss_seg: 0.25641191005706787, loss_patch: 0
+epoch: 8, the number of patch succeeded: 829
+Batch Index: 2500, loss_total: 0.6936010122299194, loss_depth: 0.2052116096019745, loss_seg: 0.28317782282829285, loss_patch: 0
+epoch: 8, the number of patch succeeded: 1033
+Batch Index: 3000, loss_total: 1.097944974899292, loss_depth: 0.388330340385437, loss_seg: 0.32128435373306274, loss_patch: 0
+epoch: 8, the number of patch succeeded: 1228
+Batch Index: 3500, loss_total: 0.9849826693534851, loss_depth: 0.4129089117050171, loss_seg: 0.15916484594345093, loss_patch: 0
+epoch: 8, the number of patch succeeded: 1432
+Batch Index: 4000, loss_total: 0.9567104578018188, loss_depth: 0.38538187742233276, loss_seg: 0.18594668805599213, loss_patch: 0
+epoch: 8, the number of patch succeeded: 1650
+Batch Index: 4500, loss_total: 0.8061606884002686, loss_depth: 0.2477540373802185, loss_seg: 0.29928267002105713, loss_patch: 0.005684974137693644
+epoch: 8, the number of patch succeeded: 1863
+Batch Index: 5000, loss_total: 1.0452077388763428, loss_depth: 0.39721906185150146, loss_seg: 0.25076964497566223, loss_patch: 0
+epoch: 8, the number of patch succeeded: 2048
+Batch Index: 5500, loss_total: 0.898362398147583, loss_depth: 0.36471322178840637, loss_seg: 0.16893593966960907, loss_patch: 0
+epoch: 8, the number of patch succeeded: 2259
+Batch Index: 6000, loss_total: 0.9176123738288879, loss_depth: 0.3248025178909302, loss_seg: 0.2680073380470276, loss_patch: 0
+epoch: 8, the number of patch succeeded: 2464
+Batch Index: 6500, loss_total: 0.6363773345947266, loss_depth: 0.1458887755870819, loss_seg: 0.34459975361824036, loss_patch: 0
+epoch: 8, the number of patch succeeded: 2663
+Batch Index: 7000, loss_total: 1.004706621170044, loss_depth: 0.3712851405143738, loss_seg: 0.262136310338974, loss_patch: 0
+epoch: 8, the number of patch succeeded: 2857
+Batch Index: 7500, loss_total: 0.7975159883499146, loss_depth: 0.26746729016304016, loss_seg: 0.26258137822151184, loss_patch: 0
+epoch: 8, the number of patch succeeded: 3062
+Batch Index: 8000, loss_total: 0.7888746857643127, loss_depth: 0.2927592396736145, loss_seg: 0.18382836878299713, loss_patch: 0.009763936512172222
+epoch: 8, the number of patch succeeded: 3258
+Batch Index: 8500, loss_total: 0.9029626846313477, loss_depth: 0.3195626139640808, loss_seg: 0.25354039669036865, loss_patch: 0.005148527678102255
+epoch: 8, the number of patch succeeded: 3456
+Batch Index: 9000, loss_total: 0.7460010051727295, loss_depth: 0.285802960395813, loss_seg: 0.17439505457878113, loss_patch: 0
+epoch: 8, the number of patch succeeded: 3670
+Batch Index: 9500, loss_total: 0.9607151746749878, loss_depth: 0.3146183490753174, loss_seg: 0.29683607816696167, loss_patch: 0.017321189865469933
+epoch: 8, the number of patch succeeded: 3892
+Batch Index: 0, loss_total: 0.6284340620040894, loss_depth: 0.20791178941726685, loss_seg: 0.20337146520614624, loss_patch: 0.004619518760591745
+epoch: 9, the number of patch succeeded: 1
+Batch Index: 500, loss_total: 0.9109297394752502, loss_depth: 0.33640238642692566, loss_seg: 0.23812496662139893, loss_patch: 0
+epoch: 9, the number of patch succeeded: 205
+Batch Index: 1000, loss_total: 0.8856654763221741, loss_depth: 0.3316270709037781, loss_seg: 0.22241131961345673, loss_patch: 0
+epoch: 9, the number of patch succeeded: 408
+Batch Index: 1500, loss_total: 0.8118270635604858, loss_depth: 0.271573543548584, loss_seg: 0.26867997646331787, loss_patch: 0
+epoch: 9, the number of patch succeeded: 623
+Batch Index: 2000, loss_total: 0.8577636480331421, loss_depth: 0.313164621591568, loss_seg: 0.21199311316013336, loss_patch: 0.009720652364194393
+epoch: 9, the number of patch succeeded: 828
+Batch Index: 2500, loss_total: 1.34760582447052, loss_depth: 0.4789099097251892, loss_seg: 0.3897860050201416, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1034
+Batch Index: 3000, loss_total: 1.1571660041809082, loss_depth: 0.4721068739891052, loss_seg: 0.21295224130153656, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1238
+Batch Index: 3500, loss_total: 1.0898000001907349, loss_depth: 0.3930109739303589, loss_seg: 0.3037780225276947, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1424
+Batch Index: 4000, loss_total: 0.5824682116508484, loss_depth: 0.20178182423114777, loss_seg: 0.16476783156394958, loss_patch: 0.007068379782140255
+epoch: 9, the number of patch succeeded: 1626
+Batch Index: 4500, loss_total: 1.1156693696975708, loss_depth: 0.3954826891422272, loss_seg: 0.315127432346344, loss_patch: 0.004788259044289589
+epoch: 9, the number of patch succeeded: 1839
+Batch Index: 5000, loss_total: 0.9728379249572754, loss_depth: 0.3598874509334564, loss_seg: 0.24815385043621063, loss_patch: 0.002454584464430809
+epoch: 9, the number of patch succeeded: 2052
+Batch Index: 5500, loss_total: 0.9651502370834351, loss_depth: 0.3513150215148926, loss_seg: 0.2625201940536499, loss_patch: 0
+epoch: 9, the number of patch succeeded: 2247
+Batch Index: 0, loss_total: 0.7730571031570435, loss_depth: 0.2293102741241455, loss_seg: 0.31443655490875244, loss_patch: 0
+epoch: 9, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.6278015375137329, loss_depth: 0.20829427242279053, loss_seg: 0.21121300756931305, loss_patch: 0
+epoch: 9, the number of patch succeeded: 200
+Batch Index: 1000, loss_total: 1.064162015914917, loss_depth: 0.38870206475257874, loss_seg: 0.2867579460144043, loss_patch: 0
+epoch: 9, the number of patch succeeded: 407
+Batch Index: 1500, loss_total: 1.3230661153793335, loss_depth: 0.537595272064209, loss_seg: 0.23430828750133514, loss_patch: 0.006783647462725639
+epoch: 9, the number of patch succeeded: 603
+Batch Index: 2000, loss_total: 0.844380795955658, loss_depth: 0.3188130259513855, loss_seg: 0.20675472915172577, loss_patch: 0
+epoch: 9, the number of patch succeeded: 815
+Batch Index: 2500, loss_total: 0.9100884795188904, loss_depth: 0.31011974811553955, loss_seg: 0.2852801978588104, loss_patch: 0.002284375252202153
+epoch: 9, the number of patch succeeded: 1008
+Batch Index: 3000, loss_total: 0.9109092950820923, loss_depth: 0.3354809880256653, loss_seg: 0.23994730412960052, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1203
+Batch Index: 3500, loss_total: 0.8623223900794983, loss_depth: 0.30450665950775146, loss_seg: 0.23880770802497864, loss_patch: 0.007250683382153511
+epoch: 9, the number of patch succeeded: 1412
+Batch Index: 4000, loss_total: 0.9131314754486084, loss_depth: 0.36124730110168457, loss_seg: 0.19063687324523926, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1602
+Batch Index: 4500, loss_total: 1.0509616136550903, loss_depth: 0.37877947092056274, loss_seg: 0.29340270161628723, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1805
+Batch Index: 5000, loss_total: 1.0486574172973633, loss_depth: 0.4122776389122009, loss_seg: 0.2141083925962448, loss_patch: 0.004996925126761198
+epoch: 9, the number of patch succeeded: 2010
+Batch Index: 5500, loss_total: 0.9251725673675537, loss_depth: 0.37566035985946655, loss_seg: 0.1738518327474594, loss_patch: 0
+epoch: 9, the number of patch succeeded: 2210
+Batch Index: 6000, loss_total: 0.6001510620117188, loss_depth: 0.22525033354759216, loss_seg: 0.14965040981769562, loss_patch: 0
+epoch: 9, the number of patch succeeded: 2428
+Batch Index: 6500, loss_total: 0.7732592821121216, loss_depth: 0.2624870836734772, loss_seg: 0.23625241219997406, loss_patch: 0.006016343832015991
+epoch: 9, the number of patch succeeded: 2638
+Batch Index: 7000, loss_total: 1.2544281482696533, loss_depth: 0.4919831156730652, loss_seg: 0.2704619765281677, loss_patch: 0
+epoch: 9, the number of patch succeeded: 2838
+Batch Index: 7500, loss_total: 1.0274511575698853, loss_depth: 0.38629150390625, loss_seg: 0.25486814975738525, loss_patch: 0
+epoch: 9, the number of patch succeeded: 3037
+Batch Index: 8000, loss_total: 0.7173064947128296, loss_depth: 0.27252787351608276, loss_seg: 0.17225073277950287, loss_patch: 0
+epoch: 9, the number of patch succeeded: 3239
+Batch Index: 8500, loss_total: 0.8516457080841064, loss_depth: 0.30359846353530884, loss_seg: 0.24444879591464996, loss_patch: 0
+epoch: 9, the number of patch succeeded: 3440
+Batch Index: 9000, loss_total: 0.8304252624511719, loss_depth: 0.335894376039505, loss_seg: 0.14957424998283386, loss_patch: 0.004531147889792919
+epoch: 9, the number of patch succeeded: 3640
+Batch Index: 9500, loss_total: 0.9887075424194336, loss_depth: 0.36894118785858154, loss_seg: 0.2508251965045929, loss_patch: 0
+epoch: 9, the number of patch succeeded: 3846
+Batch Index: 0, loss_total: 0.8513724207878113, loss_depth: 0.2859439253807068, loss_seg: 0.2624039053916931, loss_patch: 0.008540336973965168
+epoch: 10, the number of patch succeeded: 1
+Batch Index: 0, loss_total: 3.7285540103912354, loss_depth: 0.3606351613998413, loss_seg: 3.0072836875915527, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 1.3382688760757446, loss_depth: 0.10945732891559601, loss_seg: 1.119354248046875, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 1.0423583984375, loss_depth: 0.22433055937290192, loss_seg: 0.5936973094940186, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.9236098527908325, loss_depth: 0.2180107980966568, loss_seg: 0.4875882565975189, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 1.415184736251831, loss_depth: 0.28365418314933777, loss_seg: 0.8478763103485107, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 1.1691977977752686, loss_depth: 0.23428575694561005, loss_seg: 0.7006263136863708, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 1.0359137058258057, loss_depth: 0.21294528245925903, loss_seg: 0.6100230813026428, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.8947013020515442, loss_depth: 0.1784398853778839, loss_seg: 0.5378215312957764, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.9387803673744202, loss_depth: 0.20952248573303223, loss_seg: 0.5197353959083557, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.9875729084014893, loss_depth: 0.2603652775287628, loss_seg: 0.466842383146286, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.9079029560089111, loss_depth: 0.20964479446411133, loss_seg: 0.4886133670806885, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 1.0513070821762085, loss_depth: 0.3049619793891907, loss_seg: 0.44138309359550476, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.8040463924407959, loss_depth: 0.2059112936258316, loss_seg: 0.3922238349914551, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 1.0783183574676514, loss_depth: 0.22296561300754547, loss_seg: 0.632387101650238, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.8183733224868774, loss_depth: 0.19130739569664001, loss_seg: 0.4357585310935974, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.9161876440048218, loss_depth: 0.2033880352973938, loss_seg: 0.5094115734100342, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.7026850581169128, loss_depth: 0.1705009639263153, loss_seg: 0.3616831302642822, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.6977676153182983, loss_depth: 0.21634835004806519, loss_seg: 0.2650708854198456, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 1.3295581340789795, loss_depth: 0.3327597379684448, loss_seg: 0.6640387177467346, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.8980263471603394, loss_depth: 0.19939272105693817, loss_seg: 0.4992409348487854, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 1.3288248777389526, loss_depth: 0.30180874466896057, loss_seg: 0.6464095711708069, loss_patch: 0.03939890116453171
+epoch: 1, the number of patch succeeded: 1
+Batch Index: 500, loss_total: 0.7719128131866455, loss_depth: 0.20239119231700897, loss_seg: 0.36713045835494995, loss_patch: 0
+epoch: 1, the number of patch succeeded: 248
+Batch Index: 1000, loss_total: 0.8331298828125, loss_depth: 0.24844138324260712, loss_seg: 0.33624714612960815, loss_patch: 0
+epoch: 1, the number of patch succeeded: 476
+Batch Index: 1500, loss_total: 0.6741847991943359, loss_depth: 0.17512354254722595, loss_seg: 0.31614112854003906, loss_patch: 0.0038983009289950132
+epoch: 1, the number of patch succeeded: 736
+Batch Index: 2000, loss_total: 0.8677698373794556, loss_depth: 0.287296861410141, loss_seg: 0.2931760847568512, loss_patch: 0
+epoch: 1, the number of patch succeeded: 979
+Batch Index: 0, loss_total: 3.543638229370117, loss_depth: 0.2803080081939697, loss_seg: 2.9830222129821777, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 1.918118953704834, loss_depth: 0.22694620490074158, loss_seg: 1.4642266035079956, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 1.1035515069961548, loss_depth: 0.19027699530124664, loss_seg: 0.7229974865913391, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 2.0119357109069824, loss_depth: 0.18185937404632568, loss_seg: 1.6482170820236206, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 1.0785001516342163, loss_depth: 0.18156856298446655, loss_seg: 0.7153630256652832, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.8840675950050354, loss_depth: 0.14044281840324402, loss_seg: 0.6031819581985474, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.9863749742507935, loss_depth: 0.20230334997177124, loss_seg: 0.581768274307251, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.9500101804733276, loss_depth: 0.262917160987854, loss_seg: 0.424175888299942, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.8234608173370361, loss_depth: 0.16944840550422668, loss_seg: 0.48456403613090515, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 1.048719882965088, loss_depth: 0.24204689264297485, loss_seg: 0.564626157283783, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.8211159706115723, loss_depth: 0.21277545392513275, loss_seg: 0.39556506276130676, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 1.0609080791473389, loss_depth: 0.29649418592453003, loss_seg: 0.4679197072982788, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.9462252855300903, loss_depth: 0.22442011535167694, loss_seg: 0.49738505482673645, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 1.1096251010894775, loss_depth: 0.27195659279823303, loss_seg: 0.5657119154930115, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.6723522543907166, loss_depth: 0.14523902535438538, loss_seg: 0.3818742036819458, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 1.009682059288025, loss_depth: 0.2400665283203125, loss_seg: 0.5295490026473999, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.6610260009765625, loss_depth: 0.1563800871372223, loss_seg: 0.3482658267021179, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.8705060482025146, loss_depth: 0.2651923596858978, loss_seg: 0.3401213586330414, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 1.092257022857666, loss_depth: 0.2744942605495453, loss_seg: 0.5432684421539307, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.8415355086326599, loss_depth: 0.24067658185958862, loss_seg: 0.36018234491348267, loss_patch: 0
+epoch: 0, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.5686134696006775, loss_depth: 0.1837412565946579, loss_seg: 0.2011309564113617, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.8745876550674438, loss_depth: 0.2537841498851776, loss_seg: 0.3670193552970886, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.8255413770675659, loss_depth: 0.15672567486763, loss_seg: 0.5120900273323059, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.7797260284423828, loss_depth: 0.1638343632221222, loss_seg: 0.4520573318004608, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.8302892446517944, loss_depth: 0.23079439997673035, loss_seg: 0.36870041489601135, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.6063734292984009, loss_depth: 0.12241372466087341, loss_seg: 0.36154595017433167, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.8540968894958496, loss_depth: 0.23445241153240204, loss_seg: 0.3851920962333679, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.7189264297485352, loss_depth: 0.24637356400489807, loss_seg: 0.2261793166399002, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.8728194832801819, loss_depth: 0.22483235597610474, loss_seg: 0.4231547713279724, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.8116218447685242, loss_depth: 0.252003014087677, loss_seg: 0.30761581659317017, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.7568931579589844, loss_depth: 0.18278057873249054, loss_seg: 0.3913319706916809, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 0.7456570863723755, loss_depth: 0.20921240746974945, loss_seg: 0.3272322416305542, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.827146053314209, loss_depth: 0.20340141654014587, loss_seg: 0.42034322023391724, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 0.7491127252578735, loss_depth: 0.23643457889556885, loss_seg: 0.2762435972690582, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.7567338347434998, loss_depth: 0.26353469491004944, loss_seg: 0.22966443002223969, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.7849951386451721, loss_depth: 0.23267541825771332, loss_seg: 0.3196443021297455, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.5341837406158447, loss_depth: 0.09947653114795685, loss_seg: 0.3352307081222534, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.7818986177444458, loss_depth: 0.1783912032842636, loss_seg: 0.4251162111759186, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 0.8476897478103638, loss_depth: 0.1787034273147583, loss_seg: 0.49028292298316956, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.5727306604385376, loss_depth: 0.16377925872802734, loss_seg: 0.24517211318016052, loss_patch: 0
+epoch: 1, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.844208836555481, loss_depth: 0.26769161224365234, loss_seg: 0.3088255822658539, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.8151651620864868, loss_depth: 0.19073684513568878, loss_seg: 0.43369147181510925, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.9044782519340515, loss_depth: 0.27781349420547485, loss_seg: 0.3488512635231018, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.5003540515899658, loss_depth: 0.10584934800863266, loss_seg: 0.2886553406715393, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.6037435531616211, loss_depth: 0.15555782616138458, loss_seg: 0.29262790083885193, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.7021054029464722, loss_depth: 0.203296959400177, loss_seg: 0.29551148414611816, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.6039708852767944, loss_depth: 0.15183018147945404, loss_seg: 0.30031052231788635, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.7825586795806885, loss_depth: 0.19585226476192474, loss_seg: 0.390854150056839, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.8345807194709778, loss_depth: 0.24823936820030212, loss_seg: 0.33810198307037354, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.7378159761428833, loss_depth: 0.196531280875206, loss_seg: 0.3447534143924713, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.6522644758224487, loss_depth: 0.17699427902698517, loss_seg: 0.2982759475708008, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 0.6483101844787598, loss_depth: 0.17709878087043762, loss_seg: 0.2941126227378845, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.46758803725242615, loss_depth: 0.13771459460258484, loss_seg: 0.19215884804725647, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 0.7407665252685547, loss_depth: 0.18543648719787598, loss_seg: 0.36989355087280273, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.6319022178649902, loss_depth: 0.19891011714935303, loss_seg: 0.23408199846744537, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.848753035068512, loss_depth: 0.2304767370223999, loss_seg: 0.38779956102371216, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.6095858216285706, loss_depth: 0.19276162981987, loss_seg: 0.22406257688999176, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.5572201013565063, loss_depth: 0.1546276956796646, loss_seg: 0.24796469509601593, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 0.5683481693267822, loss_depth: 0.14700572192668915, loss_seg: 0.2743367552757263, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.662630021572113, loss_depth: 0.1664237082004547, loss_seg: 0.3297826051712036, loss_patch: 0
+epoch: 2, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.8195062875747681, loss_depth: 0.27749982476234436, loss_seg: 0.26450666785240173, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.5928153395652771, loss_depth: 0.1828465461730957, loss_seg: 0.2271222323179245, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.6192797422409058, loss_depth: 0.16283930838108063, loss_seg: 0.2936010956764221, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.5409936904907227, loss_depth: 0.1499653309583664, loss_seg: 0.24106301367282867, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.8302133083343506, loss_depth: 0.25974518060684204, loss_seg: 0.3107229471206665, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.4655383229255676, loss_depth: 0.11173619329929352, loss_seg: 0.2420659214258194, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.6934463977813721, loss_depth: 0.1781769096851349, loss_seg: 0.3370925784111023, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.6739542484283447, loss_depth: 0.20039165019989014, loss_seg: 0.27317097783088684, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.605987012386322, loss_depth: 0.20024174451828003, loss_seg: 0.20550352334976196, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.5198324918746948, loss_depth: 0.14341895282268524, loss_seg: 0.23299455642700195, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.7524523138999939, loss_depth: 0.25793522596359253, loss_seg: 0.23658186197280884, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 0.7257852554321289, loss_depth: 0.27356964349746704, loss_seg: 0.17864596843719482, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.8431654572486877, loss_depth: 0.2861180901527405, loss_seg: 0.2709292769432068, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 0.723167896270752, loss_depth: 0.2005401998758316, loss_seg: 0.32208749651908875, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.506598711013794, loss_depth: 0.16200020909309387, loss_seg: 0.1825982630252838, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.5914520621299744, loss_depth: 0.1898616999387741, loss_seg: 0.21172867715358734, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.7213099002838135, loss_depth: 0.15965399146080017, loss_seg: 0.40200188755989075, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.653462827205658, loss_depth: 0.20981773734092712, loss_seg: 0.2338273525238037, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 0.6993192434310913, loss_depth: 0.19440671801567078, loss_seg: 0.31050583720207214, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.6410657167434692, loss_depth: 0.1590598076581955, loss_seg: 0.32294607162475586, loss_patch: 0
+epoch: 3, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.5853716135025024, loss_depth: 0.12733308970928192, loss_seg: 0.3307054042816162, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.7285224199295044, loss_depth: 0.23336181044578552, loss_seg: 0.26179882884025574, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.5769026279449463, loss_depth: 0.16242210566997528, loss_seg: 0.2520584464073181, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.636654794216156, loss_depth: 0.20452947914600372, loss_seg: 0.22759583592414856, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.547910213470459, loss_depth: 0.13856017589569092, loss_seg: 0.27078989148139954, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.5618057250976562, loss_depth: 0.15316513180732727, loss_seg: 0.2554754912853241, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.6184473037719727, loss_depth: 0.18160900473594666, loss_seg: 0.25522932410240173, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.5927058458328247, loss_depth: 0.16475988924503326, loss_seg: 0.26318609714508057, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.9900418519973755, loss_depth: 0.28462329506874084, loss_seg: 0.4207952320575714, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.6557220220565796, loss_depth: 0.1732887476682663, loss_seg: 0.309144526720047, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.4648251533508301, loss_depth: 0.16434529423713684, loss_seg: 0.1361345648765564, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 0.4462124705314636, loss_depth: 0.11480595171451569, loss_seg: 0.21660058200359344, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.8981651067733765, loss_depth: 0.2708829939365387, loss_seg: 0.3563991189002991, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 0.4986956715583801, loss_depth: 0.1521892249584198, loss_seg: 0.19431722164154053, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.7155632972717285, loss_depth: 0.13493040204048157, loss_seg: 0.44570252299308777, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.5708131790161133, loss_depth: 0.15866045653820038, loss_seg: 0.2534922957420349, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.6238920092582703, loss_depth: 0.1346655637025833, loss_seg: 0.35456088185310364, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.6760327219963074, loss_depth: 0.20577207207679749, loss_seg: 0.2644885778427124, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 0.4706050753593445, loss_depth: 0.1326882243156433, loss_seg: 0.20522862672805786, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.533603310585022, loss_depth: 0.16279061138629913, loss_seg: 0.2080220878124237, loss_patch: 0
+epoch: 4, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.7292100191116333, loss_depth: 0.24764303863048553, loss_seg: 0.22086437046527863, loss_patch: 0.006529779639095068
+epoch: 5, the number of patch succeeded: 1
+Batch Index: 500, loss_total: 0.5080324411392212, loss_depth: 0.12799738347530365, loss_seg: 0.2520376741886139, loss_patch: 0
+epoch: 5, the number of patch succeeded: 168
+Batch Index: 1000, loss_total: 0.5602260231971741, loss_depth: 0.1605583131313324, loss_seg: 0.23910941183567047, loss_patch: 0
+epoch: 5, the number of patch succeeded: 340
+Batch Index: 1500, loss_total: 0.6127490997314453, loss_depth: 0.18423806130886078, loss_seg: 0.24427294731140137, loss_patch: 0
+epoch: 5, the number of patch succeeded: 513
+Batch Index: 2000, loss_total: 0.5838443040847778, loss_depth: 0.1824738085269928, loss_seg: 0.21092276275157928, loss_patch: 0.003986957482993603
+epoch: 5, the number of patch succeeded: 688
+Batch Index: 2500, loss_total: 0.7756730914115906, loss_depth: 0.23187586665153503, loss_seg: 0.30093005299568176, loss_patch: 0.005495643243193626
+epoch: 5, the number of patch succeeded: 864
+Batch Index: 3000, loss_total: 0.4951508045196533, loss_depth: 0.13402564823627472, loss_seg: 0.20087435841560364, loss_patch: 0.01311257854104042
+epoch: 5, the number of patch succeeded: 1050
+Batch Index: 3500, loss_total: 0.6037348508834839, loss_depth: 0.18141406774520874, loss_seg: 0.2409067302942276, loss_patch: 0
+epoch: 5, the number of patch succeeded: 1222
+Batch Index: 4000, loss_total: 0.5617485046386719, loss_depth: 0.1693958342075348, loss_seg: 0.2229568362236023, loss_patch: 0
+epoch: 5, the number of patch succeeded: 1425
+Batch Index: 0, loss_total: 0.7603477239608765, loss_depth: 0.19198021292686462, loss_seg: 0.3763873279094696, loss_patch: 0
+epoch: 5, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.7458046078681946, loss_depth: 0.1822872757911682, loss_seg: 0.37439897656440735, loss_patch: 0.0034155684988945723
+epoch: 5, the number of patch succeeded: 171
+Batch Index: 1000, loss_total: 0.556239902973175, loss_depth: 0.16933251917362213, loss_seg: 0.203387051820755, loss_patch: 0.007093900348991156
+epoch: 5, the number of patch succeeded: 361
+Batch Index: 1500, loss_total: 0.7126061320304871, loss_depth: 0.19960159063339233, loss_seg: 0.2790737748146057, loss_patch: 0.017164599150419235
+epoch: 5, the number of patch succeeded: 533
+Batch Index: 2000, loss_total: 0.6530320644378662, loss_depth: 0.1851663887500763, loss_seg: 0.2826992869377136, loss_patch: 0
+epoch: 5, the number of patch succeeded: 712
+Batch Index: 2500, loss_total: 0.7302713990211487, loss_depth: 0.2453857958316803, loss_seg: 0.23949982225894928, loss_patch: 0
+epoch: 5, the number of patch succeeded: 894
+Batch Index: 3000, loss_total: 0.4320113956928253, loss_depth: 0.10693555325269699, loss_seg: 0.21814028918743134, loss_patch: 0
+epoch: 5, the number of patch succeeded: 1069
+Batch Index: 3500, loss_total: 0.8050878047943115, loss_depth: 0.22482721507549286, loss_seg: 0.3554333746433258, loss_patch: 0
+epoch: 5, the number of patch succeeded: 1241
+Batch Index: 4000, loss_total: 0.7159236669540405, loss_depth: 0.2311551719903946, loss_seg: 0.25361329317092896, loss_patch: 0
+epoch: 5, the number of patch succeeded: 1419
+Batch Index: 4500, loss_total: 0.6658147573471069, loss_depth: 0.18701666593551636, loss_seg: 0.263731986284256, loss_patch: 0.014024736359715462
+epoch: 5, the number of patch succeeded: 1596
+Batch Index: 5000, loss_total: 0.5677237510681152, loss_depth: 0.1557151973247528, loss_seg: 0.25629332661628723, loss_patch: 0
+epoch: 5, the number of patch succeeded: 1769
+Batch Index: 5500, loss_total: 0.6561017036437988, loss_depth: 0.2020167112350464, loss_seg: 0.25206828117370605, loss_patch: 0
+epoch: 5, the number of patch succeeded: 1932
+Batch Index: 6000, loss_total: 0.6889368295669556, loss_depth: 0.2159527987241745, loss_seg: 0.2570312023162842, loss_patch: 0
+epoch: 5, the number of patch succeeded: 2098
+Batch Index: 6500, loss_total: 0.4912530779838562, loss_depth: 0.11293525248765945, loss_seg: 0.2653825581073761, loss_patch: 0
+epoch: 5, the number of patch succeeded: 2266
+Batch Index: 7000, loss_total: 0.6445516347885132, loss_depth: 0.14922182261943817, loss_seg: 0.34610801935195923, loss_patch: 0
+epoch: 5, the number of patch succeeded: 2442
+Batch Index: 7500, loss_total: 0.6069343090057373, loss_depth: 0.1530584692955017, loss_seg: 0.3008174002170563, loss_patch: 0
+epoch: 5, the number of patch succeeded: 2624
+Batch Index: 8000, loss_total: 0.6136831045150757, loss_depth: 0.18856649100780487, loss_seg: 0.23655009269714355, loss_patch: 0
+epoch: 5, the number of patch succeeded: 2794
+Batch Index: 8500, loss_total: 0.5058010220527649, loss_depth: 0.12049379199743271, loss_seg: 0.26481345295906067, loss_patch: 0
+epoch: 5, the number of patch succeeded: 2982
+Batch Index: 9000, loss_total: 0.4987960457801819, loss_depth: 0.1545414924621582, loss_seg: 0.18971306085586548, loss_patch: 0
+epoch: 5, the number of patch succeeded: 3153
+Batch Index: 9500, loss_total: 0.6928555369377136, loss_depth: 0.20285484194755554, loss_seg: 0.28714585304260254, loss_patch: 0
+epoch: 5, the number of patch succeeded: 3336
+Batch Index: 0, loss_total: 0.6056876182556152, loss_depth: 0.14602425694465637, loss_seg: 0.2897116541862488, loss_patch: 0.01196372788399458
+epoch: 6, the number of patch succeeded: 1
+Batch Index: 500, loss_total: 0.6640846133232117, loss_depth: 0.17231376469135284, loss_seg: 0.319457083940506, loss_patch: 0
+epoch: 6, the number of patch succeeded: 173
+Batch Index: 1000, loss_total: 0.428417444229126, loss_depth: 0.12498138844966888, loss_seg: 0.16995017230510712, loss_patch: 0.0042522503063082695
+epoch: 6, the number of patch succeeded: 344
+Batch Index: 1500, loss_total: 0.5589886903762817, loss_depth: 0.12065286934375763, loss_seg: 0.31768298149108887, loss_patch: 0
+epoch: 6, the number of patch succeeded: 506
+Batch Index: 2000, loss_total: 0.732404351234436, loss_depth: 0.2007879763841629, loss_seg: 0.3308284282684326, loss_patch: 0
+epoch: 6, the number of patch succeeded: 660
+Batch Index: 2500, loss_total: 0.6747068166732788, loss_depth: 0.19367991387844086, loss_seg: 0.2873470187187195, loss_patch: 0
+epoch: 6, the number of patch succeeded: 825
+Batch Index: 3000, loss_total: 0.5591404438018799, loss_depth: 0.1718750149011612, loss_seg: 0.2153903841972351, loss_patch: 0
+epoch: 6, the number of patch succeeded: 995
+Batch Index: 3500, loss_total: 0.5733850002288818, loss_depth: 0.1727788746356964, loss_seg: 0.2278272807598114, loss_patch: 0
+epoch: 6, the number of patch succeeded: 1170
+Batch Index: 4000, loss_total: 0.4738527536392212, loss_depth: 0.11158236861228943, loss_seg: 0.23686489462852478, loss_patch: 0.006911566015332937
+epoch: 6, the number of patch succeeded: 1348
+Batch Index: 4500, loss_total: 0.5179612636566162, loss_depth: 0.15839837491512299, loss_seg: 0.18416139483451843, loss_patch: 0.008501572534441948
+epoch: 6, the number of patch succeeded: 1515
+Batch Index: 5000, loss_total: 0.5560944080352783, loss_depth: 0.1621960699558258, loss_seg: 0.1963602751493454, loss_patch: 0.017671002075076103
+epoch: 6, the number of patch succeeded: 1672
+Batch Index: 5500, loss_total: 0.7035597562789917, loss_depth: 0.23887039721012115, loss_seg: 0.2225983589887619, loss_patch: 0.0016103144735097885
+epoch: 6, the number of patch succeeded: 1835
+Batch Index: 6000, loss_total: 0.6140962243080139, loss_depth: 0.16910460591316223, loss_seg: 0.23914971947669983, loss_patch: 0.018368644639849663
+epoch: 6, the number of patch succeeded: 1991
+Batch Index: 0, loss_total: 0.6173836588859558, loss_depth: 0.17704109847545624, loss_seg: 0.2445029318332672, loss_patch: 0.009399255737662315
+epoch: 6, the number of patch succeeded: 1
+Batch Index: 500, loss_total: 0.5296040773391724, loss_depth: 0.122913658618927, loss_seg: 0.2698221504688263, loss_patch: 0.0069773197174072266
+epoch: 6, the number of patch succeeded: 175
+Batch Index: 1000, loss_total: 0.4128079116344452, loss_depth: 0.12485629320144653, loss_seg: 0.16309532523155212, loss_patch: 0
+epoch: 6, the number of patch succeeded: 352
+Batch Index: 1500, loss_total: 0.6056438088417053, loss_depth: 0.18312180042266846, loss_seg: 0.23940019309520721, loss_patch: 0
+epoch: 6, the number of patch succeeded: 513
+Batch Index: 2000, loss_total: 0.4136009216308594, loss_depth: 0.08583612740039825, loss_seg: 0.24192865192890167, loss_patch: 0
+epoch: 6, the number of patch succeeded: 689
+Batch Index: 2500, loss_total: 0.5445576310157776, loss_depth: 0.15750941634178162, loss_seg: 0.2234179973602295, loss_patch: 0.003060394898056984
+epoch: 6, the number of patch succeeded: 856
+Batch Index: 3000, loss_total: 0.5178663730621338, loss_depth: 0.13244718313217163, loss_seg: 0.23997783660888672, loss_patch: 0.006497092079371214
+epoch: 6, the number of patch succeeded: 1032
+Batch Index: 3500, loss_total: 0.5708473920822144, loss_depth: 0.15812253952026367, loss_seg: 0.2546022832393646, loss_patch: 0
+epoch: 6, the number of patch succeeded: 1209
+Batch Index: 4000, loss_total: 0.5305103659629822, loss_depth: 0.16004791855812073, loss_seg: 0.21041454374790192, loss_patch: 0
+epoch: 6, the number of patch succeeded: 1361
+Batch Index: 4500, loss_total: 0.49813786149024963, loss_depth: 0.12846224009990692, loss_seg: 0.23466594517230988, loss_patch: 0.003273711772635579
+epoch: 6, the number of patch succeeded: 1518
+Batch Index: 5000, loss_total: 0.5521633625030518, loss_depth: 0.14100143313407898, loss_seg: 0.2701605260372162, loss_patch: 0
+epoch: 6, the number of patch succeeded: 1672
+Batch Index: 5500, loss_total: 0.5559542775154114, loss_depth: 0.16016966104507446, loss_seg: 0.23561494052410126, loss_patch: 0
+epoch: 6, the number of patch succeeded: 1838
+Batch Index: 6000, loss_total: 0.49268949031829834, loss_depth: 0.18514323234558105, loss_seg: 0.12240301072597504, loss_patch: 0
+epoch: 6, the number of patch succeeded: 2015
+Batch Index: 6500, loss_total: 0.5154011845588684, loss_depth: 0.1142263188958168, loss_seg: 0.2869485318660736, loss_patch: 0
+epoch: 6, the number of patch succeeded: 2189
+Batch Index: 7000, loss_total: 0.5014567971229553, loss_depth: 0.12280590832233429, loss_seg: 0.24413910508155823, loss_patch: 0.0058529432862997055
+epoch: 6, the number of patch succeeded: 2340
+Batch Index: 7500, loss_total: 0.44846516847610474, loss_depth: 0.11344997584819794, loss_seg: 0.22156521677970886, loss_patch: 0
+epoch: 6, the number of patch succeeded: 2496
+Batch Index: 8000, loss_total: 0.6184889674186707, loss_depth: 0.15303699672222137, loss_seg: 0.30004796385765076, loss_patch: 0.006183518096804619
+epoch: 6, the number of patch succeeded: 2649
+Batch Index: 8500, loss_total: 0.49941378831863403, loss_depth: 0.1441396176815033, loss_seg: 0.21113455295562744, loss_patch: 0
+epoch: 6, the number of patch succeeded: 2806
+Batch Index: 9000, loss_total: 0.521481990814209, loss_depth: 0.16161274909973145, loss_seg: 0.17453624308109283, loss_patch: 0.011860140599310398
+epoch: 6, the number of patch succeeded: 2975
+Batch Index: 9500, loss_total: 0.6675674319267273, loss_depth: 0.18922708928585052, loss_seg: 0.28911325335502625, loss_patch: 0
+epoch: 6, the number of patch succeeded: 3126
+Batch Index: 0, loss_total: 0.4244014024734497, loss_depth: 0.13519582152366638, loss_seg: 0.15400974452495575, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.6468740701675415, loss_depth: 0.1899166703224182, loss_seg: 0.2670407295227051, loss_patch: 0
+epoch: 7, the number of patch succeeded: 163
+Batch Index: 0, loss_total: 0.556922972202301, loss_depth: 0.16981428861618042, loss_seg: 0.19153188169002533, loss_patch: 0.01288126315921545
+epoch: 6, the number of patch succeeded: 1
+Batch Index: 500, loss_total: 0.5332090854644775, loss_depth: 0.17914196848869324, loss_seg: 0.17492516338825226, loss_patch: 0
+epoch: 6, the number of patch succeeded: 149
+Batch Index: 1000, loss_total: 0.6700435876846313, loss_depth: 0.13643386960029602, loss_seg: 0.37721285223960876, loss_patch: 0.009981520473957062
+epoch: 6, the number of patch succeeded: 331
+Batch Index: 1500, loss_total: 0.6392729878425598, loss_depth: 0.22938966751098633, loss_seg: 0.18049363791942596, loss_patch: 0
+epoch: 6, the number of patch succeeded: 507
+Batch Index: 2000, loss_total: 0.522542417049408, loss_depth: 0.14233385026454926, loss_seg: 0.23787473142147064, loss_patch: 0
+epoch: 6, the number of patch succeeded: 666
+Batch Index: 2500, loss_total: 0.6596143245697021, loss_depth: 0.13845407962799072, loss_seg: 0.3827061355113983, loss_patch: 0
+epoch: 6, the number of patch succeeded: 818
+Batch Index: 3000, loss_total: 0.7300688028335571, loss_depth: 0.24224670231342316, loss_seg: 0.245575413107872, loss_patch: 0
+epoch: 6, the number of patch succeeded: 977
+Batch Index: 3500, loss_total: 0.6818665266036987, loss_depth: 0.1943884789943695, loss_seg: 0.2930895686149597, loss_patch: 0
+epoch: 6, the number of patch succeeded: 1128
+Batch Index: 4000, loss_total: 0.5397095680236816, loss_depth: 0.1420178860425949, loss_seg: 0.24797265231609344, loss_patch: 0.003850586712360382
+epoch: 6, the number of patch succeeded: 1292
+Batch Index: 4500, loss_total: 0.5905317068099976, loss_depth: 0.13917231559753418, loss_seg: 0.3121870458126068, loss_patch: 0
+epoch: 6, the number of patch succeeded: 1463
+Batch Index: 5000, loss_total: 0.8623567819595337, loss_depth: 0.1493896096944809, loss_seg: 0.5635775327682495, loss_patch: 0
+epoch: 6, the number of patch succeeded: 1624
+Batch Index: 5500, loss_total: 0.5810306668281555, loss_depth: 0.1769687533378601, loss_seg: 0.2270931750535965, loss_patch: 0
+epoch: 6, the number of patch succeeded: 1789
+Batch Index: 6000, loss_total: 0.5700684785842896, loss_depth: 0.1618429273366928, loss_seg: 0.23673997819423676, loss_patch: 0.004821340087801218
+epoch: 6, the number of patch succeeded: 1961
+Batch Index: 6500, loss_total: 0.5179935693740845, loss_depth: 0.13305343687534332, loss_seg: 0.2518867254257202, loss_patch: 0
+epoch: 6, the number of patch succeeded: 2134
+Batch Index: 7000, loss_total: 0.7008103728294373, loss_depth: 0.17857640981674194, loss_seg: 0.34365755319595337, loss_patch: 0
+epoch: 6, the number of patch succeeded: 2297
+Batch Index: 7500, loss_total: 0.5170833468437195, loss_depth: 0.13484957814216614, loss_seg: 0.2473841905593872, loss_patch: 0
+epoch: 6, the number of patch succeeded: 2460
+Batch Index: 8000, loss_total: 0.6532244682312012, loss_depth: 0.12590008974075317, loss_seg: 0.3870241940021515, loss_patch: 0.007200061809271574
+epoch: 6, the number of patch succeeded: 2617
+Batch Index: 8500, loss_total: 0.6003415584564209, loss_depth: 0.18203648924827576, loss_seg: 0.2362685650587082, loss_patch: 0
+epoch: 6, the number of patch succeeded: 2764
+Batch Index: 9000, loss_total: 0.4047865569591522, loss_depth: 0.11800411343574524, loss_seg: 0.16877833008766174, loss_patch: 0
+epoch: 6, the number of patch succeeded: 2932
+Batch Index: 9500, loss_total: 0.6121915578842163, loss_depth: 0.19493110477924347, loss_seg: 0.22232937812805176, loss_patch: 0
+epoch: 6, the number of patch succeeded: 3092
+Batch Index: 0, loss_total: 0.5431660413742065, loss_depth: 0.15738259255886078, loss_seg: 0.22840085625648499, loss_patch: 0
+epoch: 7, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.6616560220718384, loss_depth: 0.2072160542011261, loss_seg: 0.23646965622901917, loss_patch: 0.0053771063685417175
+epoch: 7, the number of patch succeeded: 154
+Batch Index: 0, loss_total: 0.6489862203598022, loss_depth: 0.1908150017261505, loss_seg: 0.25530922412872314, loss_patch: 0.0060235015116631985
+epoch: 7, the number of patch succeeded: 1
+Batch Index: 500, loss_total: 0.4823610186576843, loss_depth: 0.14589817821979523, loss_seg: 0.19056464731693268, loss_patch: 0
+epoch: 7, the number of patch succeeded: 161
+Batch Index: 1000, loss_total: 0.4740338921546936, loss_depth: 0.12915648519992828, loss_seg: 0.21572093665599823, loss_patch: 0
+epoch: 7, the number of patch succeeded: 311
+Batch Index: 1500, loss_total: 0.5133882761001587, loss_depth: 0.12170620262622833, loss_seg: 0.2699759006500244, loss_patch: 0
+epoch: 7, the number of patch succeeded: 457
+Batch Index: 2000, loss_total: 0.47337737679481506, loss_depth: 0.11584155261516571, loss_seg: 0.24169427156448364, loss_patch: 0
+epoch: 7, the number of patch succeeded: 643
+Batch Index: 2500, loss_total: 0.4422972500324249, loss_depth: 0.09400404244661331, loss_seg: 0.2316703200340271, loss_patch: 0.011309435591101646
+epoch: 7, the number of patch succeeded: 801
+Batch Index: 3000, loss_total: 0.5134710073471069, loss_depth: 0.14115038514137268, loss_seg: 0.23117023706436157, loss_patch: 0
+epoch: 7, the number of patch succeeded: 945
+Batch Index: 3500, loss_total: 0.5717342495918274, loss_depth: 0.1598413735628128, loss_seg: 0.23596088588237762, loss_patch: 0.008045325055718422
+epoch: 7, the number of patch succeeded: 1102
+Batch Index: 4000, loss_total: 0.6596437692642212, loss_depth: 0.12459394335746765, loss_seg: 0.4104559123516083, loss_patch: 0
+epoch: 7, the number of patch succeeded: 1266
+Batch Index: 4500, loss_total: 0.5482116937637329, loss_depth: 0.1713249832391739, loss_seg: 0.20556169748306274, loss_patch: 0
+epoch: 7, the number of patch succeeded: 1423
+Batch Index: 5000, loss_total: 0.6833533644676208, loss_depth: 0.18987809121608734, loss_seg: 0.27871954441070557, loss_patch: 0.012438791804015636
+epoch: 7, the number of patch succeeded: 1578
+Batch Index: 5500, loss_total: 0.5882342457771301, loss_depth: 0.19057074189186096, loss_seg: 0.207092747092247, loss_patch: 0
+epoch: 7, the number of patch succeeded: 1730
+Batch Index: 6000, loss_total: 0.6087663769721985, loss_depth: 0.17614929378032684, loss_seg: 0.2448301911354065, loss_patch: 0.005818814039230347
+epoch: 7, the number of patch succeeded: 1877
+Batch Index: 6500, loss_total: 0.5257754325866699, loss_depth: 0.1531473845243454, loss_seg: 0.21948066353797913, loss_patch: 0
+epoch: 7, the number of patch succeeded: 2025
+Batch Index: 7000, loss_total: 0.5190722346305847, loss_depth: 0.1584351360797882, loss_seg: 0.1939360350370407, loss_patch: 0.004132966045290232
+epoch: 7, the number of patch succeeded: 2175
+Batch Index: 7500, loss_total: 0.5785099267959595, loss_depth: 0.15750859677791595, loss_seg: 0.26349273324012756, loss_patch: 0
+epoch: 7, the number of patch succeeded: 2326
+Batch Index: 8000, loss_total: 0.5802516937255859, loss_depth: 0.16850870847702026, loss_seg: 0.23091033101081848, loss_patch: 0.006161998957395554
+epoch: 7, the number of patch succeeded: 2474
+Batch Index: 8500, loss_total: 0.45808684825897217, loss_depth: 0.1585531234741211, loss_seg: 0.14098061621189117, loss_patch: 0
+epoch: 7, the number of patch succeeded: 2611
+Batch Index: 9000, loss_total: 0.5543950200080872, loss_depth: 0.12250785529613495, loss_seg: 0.30937930941581726, loss_patch: 0
+epoch: 7, the number of patch succeeded: 2782
+Batch Index: 9500, loss_total: 0.4358646869659424, loss_depth: 0.1171724796295166, loss_seg: 0.20151971280574799, loss_patch: 0
+epoch: 7, the number of patch succeeded: 2926
+Batch Index: 0, loss_total: 0.49083423614501953, loss_depth: 0.13710403442382812, loss_seg: 0.19869081676006317, loss_patch: 0.00896767433732748
+epoch: 8, the number of patch succeeded: 1
+Batch Index: 0, loss_total: 0.5349411964416504, loss_depth: 0.15938597917556763, loss_seg: 0.21616922318935394, loss_patch: 0
+epoch: 8, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.40883904695510864, loss_depth: 0.10818322747945786, loss_seg: 0.19247257709503174, loss_patch: 0
+epoch: 8, the number of patch succeeded: 135
+Batch Index: 1000, loss_total: 0.46627944707870483, loss_depth: 0.1309467852115631, loss_seg: 0.20438586175441742, loss_patch: 0
+epoch: 8, the number of patch succeeded: 284
+Batch Index: 1500, loss_total: 0.5065927505493164, loss_depth: 0.1428339183330536, loss_seg: 0.22092494368553162, loss_patch: 0
+epoch: 8, the number of patch succeeded: 439
+Batch Index: 2000, loss_total: 0.41308534145355225, loss_depth: 0.11257700622081757, loss_seg: 0.1879313439130783, loss_patch: 0
+epoch: 8, the number of patch succeeded: 577
+Batch Index: 2500, loss_total: 0.716377317905426, loss_depth: 0.20503194630146027, loss_seg: 0.3063134253025055, loss_patch: 0
+epoch: 8, the number of patch succeeded: 711
+Batch Index: 3000, loss_total: 0.5710766315460205, loss_depth: 0.18306313455104828, loss_seg: 0.20495036244392395, loss_patch: 0
+epoch: 8, the number of patch succeeded: 850
+Batch Index: 3500, loss_total: 0.5241745710372925, loss_depth: 0.12003389000892639, loss_seg: 0.2841068208217621, loss_patch: 0
+epoch: 8, the number of patch succeeded: 982
+Batch Index: 4000, loss_total: 0.5445927381515503, loss_depth: 0.14635707437992096, loss_seg: 0.2518785893917084, loss_patch: 0
+epoch: 8, the number of patch succeeded: 1141
+Batch Index: 4500, loss_total: 0.47035449743270874, loss_depth: 0.13960063457489014, loss_seg: 0.19115324318408966, loss_patch: 0
+epoch: 8, the number of patch succeeded: 1264
+Batch Index: 5000, loss_total: 0.6422340273857117, loss_depth: 0.19408449530601501, loss_seg: 0.25406503677368164, loss_patch: 0
+epoch: 8, the number of patch succeeded: 1407
+Batch Index: 5500, loss_total: 0.3438054025173187, loss_depth: 0.11210817098617554, loss_seg: 0.11201971024274826, loss_patch: 0.0037846758496016264
+epoch: 8, the number of patch succeeded: 1546
+Batch Index: 6000, loss_total: 0.5368005037307739, loss_depth: 0.1372864544391632, loss_seg: 0.2622275948524475, loss_patch: 0
+epoch: 8, the number of patch succeeded: 1698
+Batch Index: 6500, loss_total: 0.45964524149894714, loss_depth: 0.126651331782341, loss_seg: 0.20634257793426514, loss_patch: 0
+epoch: 8, the number of patch succeeded: 1845
+Batch Index: 7000, loss_total: 0.6447091698646545, loss_depth: 0.18484212458133698, loss_seg: 0.26114922761917114, loss_patch: 0.006937835831195116
+epoch: 8, the number of patch succeeded: 1980
+Batch Index: 7500, loss_total: 0.4928360879421234, loss_depth: 0.12085933983325958, loss_seg: 0.25111740827560425, loss_patch: 0
+epoch: 8, the number of patch succeeded: 2106
+Batch Index: 8000, loss_total: 0.46010470390319824, loss_depth: 0.14355045557022095, loss_seg: 0.17300379276275635, loss_patch: 0
+epoch: 8, the number of patch succeeded: 2255
+Batch Index: 8500, loss_total: 0.5146414041519165, loss_depth: 0.1743241846561432, loss_seg: 0.1455392986536026, loss_patch: 0.010226884856820107
+epoch: 8, the number of patch succeeded: 2392
+Batch Index: 9000, loss_total: 0.548655092716217, loss_depth: 0.15051275491714478, loss_seg: 0.23696832358837128, loss_patch: 0.005330611951649189
+epoch: 8, the number of patch succeeded: 2520
+Batch Index: 9500, loss_total: 0.48133385181427, loss_depth: 0.1475219875574112, loss_seg: 0.18628986179828644, loss_patch: 0
+epoch: 8, the number of patch succeeded: 2637
+Batch Index: 0, loss_total: 0.5595948100090027, loss_depth: 0.14671584963798523, loss_seg: 0.2509153485298157, loss_patch: 0.007623876910656691
+epoch: 9, the number of patch succeeded: 1
+Batch Index: 500, loss_total: 0.6170823574066162, loss_depth: 0.18581879138946533, loss_seg: 0.24544475972652435, loss_patch: 0
+epoch: 9, the number of patch succeeded: 139
+Batch Index: 1000, loss_total: 0.35940858721733093, loss_depth: 0.11291699856519699, loss_seg: 0.13357459008693695, loss_patch: 0
+epoch: 9, the number of patch succeeded: 269
+Batch Index: 1500, loss_total: 0.4070095419883728, loss_depth: 0.07752107828855515, loss_seg: 0.2519674003124237, loss_patch: 0
+epoch: 9, the number of patch succeeded: 410
+Batch Index: 2000, loss_total: 0.5164041519165039, loss_depth: 0.17839890718460083, loss_seg: 0.15960632264614105, loss_patch: 0
+epoch: 9, the number of patch succeeded: 558
+Batch Index: 2500, loss_total: 0.5501999258995056, loss_depth: 0.13187013566493988, loss_seg: 0.2497124820947647, loss_patch: 0.01837356947362423
+epoch: 9, the number of patch succeeded: 692
+Batch Index: 3000, loss_total: 0.5516247749328613, loss_depth: 0.17192278802394867, loss_seg: 0.20215709507465363, loss_patch: 0.002811056561768055
+epoch: 9, the number of patch succeeded: 821
+Batch Index: 3500, loss_total: 0.588236927986145, loss_depth: 0.16989284753799438, loss_seg: 0.24845123291015625, loss_patch: 0
+epoch: 9, the number of patch succeeded: 969
+Batch Index: 4000, loss_total: 0.5173816680908203, loss_depth: 0.12272912263870239, loss_seg: 0.27192339301109314, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1103
+Batch Index: 4500, loss_total: 0.7394631505012512, loss_depth: 0.2363632321357727, loss_seg: 0.2667366862297058, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1241
+Batch Index: 5000, loss_total: 0.4023263156414032, loss_depth: 0.12496651709079742, loss_seg: 0.14297106862068176, loss_patch: 0.004711104091256857
+epoch: 9, the number of patch succeeded: 1387
+Batch Index: 5500, loss_total: 0.48976725339889526, loss_depth: 0.13008470833301544, loss_seg: 0.22959785163402557, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1519
+Batch Index: 6000, loss_total: 0.5314886569976807, loss_depth: 0.15073281526565552, loss_seg: 0.23002305626869202, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1657
+Batch Index: 6500, loss_total: 0.5896069407463074, loss_depth: 0.19057707488536835, loss_seg: 0.20845280587673187, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1794
+Batch Index: 7000, loss_total: 0.5543668270111084, loss_depth: 0.15348684787750244, loss_seg: 0.24739313125610352, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1936
+Batch Index: 0, loss_total: 0.6189140677452087, loss_depth: 0.21466967463493347, loss_seg: 0.17752881348133087, loss_patch: 0.006022973917424679
+epoch: 9, the number of patch succeeded: 1
+Batch Index: 500, loss_total: 0.5852979421615601, loss_depth: 0.20492887496948242, loss_seg: 0.16238605976104736, loss_patch: 0.006527053192257881
+epoch: 9, the number of patch succeeded: 138
+Batch Index: 1000, loss_total: 0.6331439018249512, loss_depth: 0.17865440249443054, loss_seg: 0.26164567470550537, loss_patch: 0.007094713859260082
+epoch: 9, the number of patch succeeded: 284
+Batch Index: 1500, loss_total: 0.5026310086250305, loss_depth: 0.1464461386203766, loss_seg: 0.20973874628543854, loss_patch: 0
+epoch: 9, the number of patch succeeded: 407
+Batch Index: 2000, loss_total: 0.42934101819992065, loss_depth: 0.11982593685388565, loss_seg: 0.18229278922080994, loss_patch: 0.0036981776356697083
+epoch: 9, the number of patch succeeded: 551
+Batch Index: 2500, loss_total: 0.5890700817108154, loss_depth: 0.17658387124538422, loss_seg: 0.2359023243188858, loss_patch: 0
+epoch: 9, the number of patch succeeded: 707
+Batch Index: 3000, loss_total: 0.676547110080719, loss_depth: 0.18917924165725708, loss_seg: 0.29818862676620483, loss_patch: 0
+epoch: 9, the number of patch succeeded: 840
+Batch Index: 3500, loss_total: 0.35701531171798706, loss_depth: 0.048762090504169464, loss_seg: 0.25949111580848694, loss_patch: 0
+epoch: 9, the number of patch succeeded: 982
+Batch Index: 4000, loss_total: 0.45196986198425293, loss_depth: 0.14679443836212158, loss_seg: 0.14183560013771057, loss_patch: 0.008272700011730194
+epoch: 9, the number of patch succeeded: 1114
+Batch Index: 4500, loss_total: 0.4171918034553528, loss_depth: 0.12140451371669769, loss_seg: 0.1743827909231186, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1246
+Batch Index: 5000, loss_total: 0.440456748008728, loss_depth: 0.077879898250103, loss_seg: 0.28469693660736084, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1376
+Batch Index: 5500, loss_total: 0.4689894914627075, loss_depth: 0.08721823245286942, loss_seg: 0.2945530414581299, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1507
+Batch Index: 6000, loss_total: 0.4823354482650757, loss_depth: 0.11967058479785919, loss_seg: 0.2429942786693573, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1631
+Batch Index: 6500, loss_total: 0.5159018039703369, loss_depth: 0.15231278538703918, loss_seg: 0.21127620339393616, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1772
+Batch Index: 7000, loss_total: 0.46522802114486694, loss_depth: 0.14402872323989868, loss_seg: 0.17717057466506958, loss_patch: 0
+epoch: 9, the number of patch succeeded: 1902
+Batch Index: 7500, loss_total: 0.478241503238678, loss_depth: 0.14686833322048187, loss_seg: 0.18450482189655304, loss_patch: 0
+epoch: 9, the number of patch succeeded: 2036
+Batch Index: 8000, loss_total: 0.7140600085258484, loss_depth: 0.23751097917556763, loss_seg: 0.2316046804189682, loss_patch: 0.0037166906986385584
+epoch: 9, the number of patch succeeded: 2173
+Batch Index: 8500, loss_total: 0.33851689100265503, loss_depth: 0.09529004991054535, loss_seg: 0.14793680608272552, loss_patch: 0
+epoch: 9, the number of patch succeeded: 2299
+Batch Index: 9000, loss_total: 0.5470575094223022, loss_depth: 0.16063745319843292, loss_seg: 0.2257825881242752, loss_patch: 0
+epoch: 9, the number of patch succeeded: 2428
+Batch Index: 9500, loss_total: 0.5874677896499634, loss_depth: 0.2149314284324646, loss_seg: 0.13661760091781616, loss_patch: 0.010493668727576733
+epoch: 9, the number of patch succeeded: 2564
+Batch Index: 0, loss_total: 0.5116461515426636, loss_depth: 0.12599852681159973, loss_seg: 0.2596491277217865, loss_patch: 0
+epoch: 10, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.6634109020233154, loss_depth: 0.17303067445755005, loss_seg: 0.28642821311950684, loss_patch: 0.01546067651361227
+epoch: 10, the number of patch succeeded: 118
+Batch Index: 1000, loss_total: 0.5207527875900269, loss_depth: 0.16701439023017883, loss_seg: 0.18672403693199158, loss_patch: 0
+epoch: 10, the number of patch succeeded: 257
+Batch Index: 1500, loss_total: 0.391438364982605, loss_depth: 0.08957231044769287, loss_seg: 0.21229375898838043, loss_patch: 0
+epoch: 10, the number of patch succeeded: 372
+Batch Index: 2000, loss_total: 0.5242829322814941, loss_depth: 0.15493586659431458, loss_seg: 0.214411199092865, loss_patch: 0
+epoch: 10, the number of patch succeeded: 497
+Batch Index: 2500, loss_total: 0.7100577354431152, loss_depth: 0.20061668753623962, loss_seg: 0.308824360370636, loss_patch: 0
+epoch: 10, the number of patch succeeded: 639
+Batch Index: 3000, loss_total: 0.490041047334671, loss_depth: 0.12753042578697205, loss_seg: 0.23498019576072693, loss_patch: 0
+epoch: 10, the number of patch succeeded: 766
+Batch Index: 3500, loss_total: 0.5635693073272705, loss_depth: 0.219004288315773, loss_seg: 0.12556074559688568, loss_patch: 0
+epoch: 10, the number of patch succeeded: 888
+Batch Index: 4000, loss_total: 0.6131992340087891, loss_depth: 0.21706731617450714, loss_seg: 0.1790645867586136, loss_patch: 0
+epoch: 10, the number of patch succeeded: 1027
+Batch Index: 4500, loss_total: 0.536011815071106, loss_depth: 0.1496742069721222, loss_seg: 0.23666343092918396, loss_patch: 0
+epoch: 10, the number of patch succeeded: 1150
+Batch Index: 5000, loss_total: 0.41540926694869995, loss_depth: 0.12241993844509125, loss_seg: 0.17056937515735626, loss_patch: 0
+epoch: 10, the number of patch succeeded: 1284
+Batch Index: 5500, loss_total: 0.5545917749404907, loss_depth: 0.18767841160297394, loss_seg: 0.17923492193222046, loss_patch: 0
+epoch: 10, the number of patch succeeded: 1413
+Batch Index: 6000, loss_total: 0.5629804730415344, loss_depth: 0.16615977883338928, loss_seg: 0.23066090047359467, loss_patch: 0
+epoch: 10, the number of patch succeeded: 1546
+Batch Index: 6500, loss_total: 0.3773874342441559, loss_depth: 0.11779353022575378, loss_seg: 0.14180037379264832, loss_patch: 0
+epoch: 10, the number of patch succeeded: 1679
+Batch Index: 7000, loss_total: 0.4232257008552551, loss_depth: 0.11427932232618332, loss_seg: 0.19466707110404968, loss_patch: 0
+epoch: 10, the number of patch succeeded: 1801
+Batch Index: 7500, loss_total: 0.4949036240577698, loss_depth: 0.11169390380382538, loss_seg: 0.2562345266342163, loss_patch: 0.007640642113983631
+epoch: 10, the number of patch succeeded: 1935
+Batch Index: 8000, loss_total: 0.44349101185798645, loss_depth: 0.10591259598731995, loss_seg: 0.23166581988334656, loss_patch: 0
+epoch: 10, the number of patch succeeded: 2056
+Batch Index: 8500, loss_total: 0.4918731451034546, loss_depth: 0.11858794093132019, loss_seg: 0.2546972632408142, loss_patch: 0
+epoch: 10, the number of patch succeeded: 2186
+Batch Index: 9000, loss_total: 0.5221861600875854, loss_depth: 0.14111962914466858, loss_seg: 0.23994691669940948, loss_patch: 0
+epoch: 10, the number of patch succeeded: 2307
+Batch Index: 9500, loss_total: 0.4342222809791565, loss_depth: 0.09602226316928864, loss_seg: 0.24217775464057922, loss_patch: 0
+epoch: 10, the number of patch succeeded: 2425
+Batch Index: 0, loss_total: 0.36049339175224304, loss_depth: 0.10802466422319412, loss_seg: 0.1444440633058548, loss_patch: 0
+epoch: 11, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.46545904874801636, loss_depth: 0.16305860877037048, loss_seg: 0.1393418163061142, loss_patch: 0
+epoch: 11, the number of patch succeeded: 127
+Batch Index: 1000, loss_total: 0.4682377576828003, loss_depth: 0.11876542121171951, loss_seg: 0.21035243570804596, loss_patch: 0.010177239775657654
+epoch: 11, the number of patch succeeded: 247
+Batch Index: 1500, loss_total: 0.5024377107620239, loss_depth: 0.13095082342624664, loss_seg: 0.24053607881069183, loss_patch: 0
+epoch: 11, the number of patch succeeded: 364
+Batch Index: 2000, loss_total: 0.43989115953445435, loss_depth: 0.136452779173851, loss_seg: 0.16698560118675232, loss_patch: 0
+epoch: 11, the number of patch succeeded: 478
+Batch Index: 2500, loss_total: 0.5248417854309082, loss_depth: 0.1467793583869934, loss_seg: 0.23128308355808258, loss_patch: 0
+epoch: 11, the number of patch succeeded: 600
+Batch Index: 3000, loss_total: 0.4709644615650177, loss_depth: 0.1400570273399353, loss_seg: 0.1908504068851471, loss_patch: 0
+epoch: 11, the number of patch succeeded: 726
+Batch Index: 3500, loss_total: 0.6775621175765991, loss_depth: 0.20431135594844818, loss_seg: 0.26893943548202515, loss_patch: 0
+epoch: 11, the number of patch succeeded: 858
+Batch Index: 4000, loss_total: 0.5922398567199707, loss_depth: 0.16099333763122559, loss_seg: 0.24679383635520935, loss_patch: 0.011729649268090725
+epoch: 11, the number of patch succeeded: 985
+Batch Index: 4500, loss_total: 0.5165009498596191, loss_depth: 0.1795656979084015, loss_seg: 0.14321112632751465, loss_patch: 0.007079205475747585
+epoch: 11, the number of patch succeeded: 1105
+Batch Index: 5000, loss_total: 0.4932294487953186, loss_depth: 0.16433776915073395, loss_seg: 0.1645539104938507, loss_patch: 0
+epoch: 11, the number of patch succeeded: 1229
+Batch Index: 5500, loss_total: 0.5691850185394287, loss_depth: 0.15077707171440125, loss_seg: 0.26763084530830383, loss_patch: 0
+epoch: 11, the number of patch succeeded: 1339
+Batch Index: 6000, loss_total: 0.48216676712036133, loss_depth: 0.14112967252731323, loss_seg: 0.18087738752365112, loss_patch: 0.009515011683106422
+epoch: 11, the number of patch succeeded: 1463
+Batch Index: 6500, loss_total: 0.47261542081832886, loss_depth: 0.11657790839672089, loss_seg: 0.23945960402488708, loss_patch: 0
+epoch: 11, the number of patch succeeded: 1572
+Batch Index: 7000, loss_total: 0.4678865373134613, loss_depth: 0.10589186102151871, loss_seg: 0.23805727064609528, loss_patch: 0.009022767655551434
+epoch: 11, the number of patch succeeded: 1699
+Batch Index: 7500, loss_total: 0.3812680244445801, loss_depth: 0.0952710434794426, loss_seg: 0.19072593748569489, loss_patch: 0
+epoch: 11, the number of patch succeeded: 1811
+Batch Index: 8000, loss_total: 0.34052127599716187, loss_depth: 0.10517342388629913, loss_seg: 0.1301744133234024, loss_patch: 0
+epoch: 11, the number of patch succeeded: 1923
+Batch Index: 8500, loss_total: 0.5324777364730835, loss_depth: 0.15172439813613892, loss_seg: 0.22902897000312805, loss_patch: 0
+epoch: 11, the number of patch succeeded: 2041
+Batch Index: 0, loss_total: 0.46144190430641174, loss_depth: 0.14250455796718597, loss_seg: 0.16718190908432007, loss_patch: 0.004625433124601841
+epoch: 11, the number of patch succeeded: 1
+Batch Index: 500, loss_total: 0.3320390582084656, loss_depth: 0.08798016607761383, loss_seg: 0.15607871115207672, loss_patch: 0
+epoch: 11, the number of patch succeeded: 128
+Batch Index: 1000, loss_total: 0.6132672429084778, loss_depth: 0.18152190744876862, loss_seg: 0.25022342801094055, loss_patch: 0
+epoch: 11, the number of patch succeeded: 241
+Batch Index: 1500, loss_total: 0.49005454778671265, loss_depth: 0.1378241777420044, loss_seg: 0.21440620720386505, loss_patch: 0
+epoch: 11, the number of patch succeeded: 354
+Batch Index: 2000, loss_total: 0.4369093179702759, loss_depth: 0.10574670135974884, loss_seg: 0.21682550013065338, loss_patch: 0.004295195918530226
+epoch: 11, the number of patch succeeded: 479
+Batch Index: 2500, loss_total: 0.43068212270736694, loss_depth: 0.13074927031993866, loss_seg: 0.16918358206748962, loss_patch: 0
+epoch: 11, the number of patch succeeded: 597
+Batch Index: 3000, loss_total: 0.48298245668411255, loss_depth: 0.15751759707927704, loss_seg: 0.16794727742671967, loss_patch: 0
+epoch: 11, the number of patch succeeded: 725
+Batch Index: 3500, loss_total: 0.6280379295349121, loss_depth: 0.24210716784000397, loss_seg: 0.14382357895374298, loss_patch: 0
+epoch: 11, the number of patch succeeded: 851
+Batch Index: 4000, loss_total: 0.6385486721992493, loss_depth: 0.24235984683036804, loss_seg: 0.15382897853851318, loss_patch: 0
+epoch: 11, the number of patch succeeded: 980
+Batch Index: 4500, loss_total: 0.45922189950942993, loss_depth: 0.12553097307682037, loss_seg: 0.20815996825695038, loss_patch: 0
+epoch: 11, the number of patch succeeded: 1114
+Batch Index: 5000, loss_total: 0.43305352330207825, loss_depth: 0.1119256466627121, loss_seg: 0.20920222997665405, loss_patch: 0
+epoch: 11, the number of patch succeeded: 1238
+Batch Index: 5500, loss_total: 0.5802509784698486, loss_depth: 0.17398636043071747, loss_seg: 0.2322782427072525, loss_patch: 0
+epoch: 11, the number of patch succeeded: 1360
+Batch Index: 6000, loss_total: 0.3739556670188904, loss_depth: 0.10973555594682693, loss_seg: 0.15448454022407532, loss_patch: 0
+epoch: 11, the number of patch succeeded: 1469
+Batch Index: 6500, loss_total: 0.5257010459899902, loss_depth: 0.14932578802108765, loss_seg: 0.22704946994781494, loss_patch: 0
+epoch: 11, the number of patch succeeded: 1583
+Batch Index: 7000, loss_total: 0.5937331318855286, loss_depth: 0.1794975996017456, loss_seg: 0.23473793268203735, loss_patch: 0
+epoch: 11, the number of patch succeeded: 1704
+Batch Index: 7500, loss_total: 0.45205092430114746, loss_depth: 0.11507382243871689, loss_seg: 0.21288421750068665, loss_patch: 0.004509541671723127
+epoch: 11, the number of patch succeeded: 1828
+Batch Index: 8000, loss_total: 0.41490647196769714, loss_depth: 0.11591844260692596, loss_seg: 0.18306958675384521, loss_patch: 0
+epoch: 11, the number of patch succeeded: 1952
+Batch Index: 8500, loss_total: 0.4285317361354828, loss_depth: 0.13154542446136475, loss_seg: 0.15354996919631958, loss_patch: 0.005945462733507156
+epoch: 11, the number of patch succeeded: 2076
+Batch Index: 9000, loss_total: 0.6681618690490723, loss_depth: 0.21249866485595703, loss_seg: 0.2431645542383194, loss_patch: 0
+epoch: 11, the number of patch succeeded: 2196
+Batch Index: 9500, loss_total: 0.6032263040542603, loss_depth: 0.17833709716796875, loss_seg: 0.23518142104148865, loss_patch: 0.0056853326968848705
+epoch: 11, the number of patch succeeded: 2318
+Batch Index: 0, loss_total: 0.4123193621635437, loss_depth: 0.1057514175772667, loss_seg: 0.17498546838760376, loss_patch: 0.012915518134832382
+epoch: 12, the number of patch succeeded: 1
+Batch Index: 500, loss_total: 0.6151735782623291, loss_depth: 0.1486501395702362, loss_seg: 0.3178732693195343, loss_patch: 0
+epoch: 12, the number of patch succeeded: 106
+Batch Index: 1000, loss_total: 0.4671972095966339, loss_depth: 0.16834402084350586, loss_seg: 0.11919105052947998, loss_patch: 0.005659058224409819
+epoch: 12, the number of patch succeeded: 227
+Batch Index: 1500, loss_total: 0.7841651439666748, loss_depth: 0.25517094135284424, loss_seg: 0.257916122674942, loss_patch: 0.007953577674925327
+epoch: 12, the number of patch succeeded: 323
+Batch Index: 2000, loss_total: 0.5554314851760864, loss_depth: 0.17541830241680145, loss_seg: 0.20459489524364471, loss_patch: 0
+epoch: 12, the number of patch succeeded: 432
+Batch Index: 2500, loss_total: 0.5073300004005432, loss_depth: 0.15593697130680084, loss_seg: 0.19545604288578033, loss_patch: 0
+epoch: 12, the number of patch succeeded: 553
+Batch Index: 3000, loss_total: 0.5455204248428345, loss_depth: 0.18571531772613525, loss_seg: 0.15560400485992432, loss_patch: 0.009242893196642399
+epoch: 12, the number of patch succeeded: 661
+Batch Index: 3500, loss_total: 0.4233764708042145, loss_depth: 0.13598006963729858, loss_seg: 0.1514163315296173, loss_patch: 0
+epoch: 12, the number of patch succeeded: 785
+Batch Index: 4000, loss_total: 0.4779502749443054, loss_depth: 0.1878272145986557, loss_seg: 0.10229586064815521, loss_patch: 0
+epoch: 12, the number of patch succeeded: 900
+Batch Index: 4500, loss_total: 0.5124404430389404, loss_depth: 0.15290410816669464, loss_seg: 0.20663219690322876, loss_patch: 0
+epoch: 12, the number of patch succeeded: 1009
+Batch Index: 5000, loss_total: 0.5028448104858398, loss_depth: 0.16965606808662415, loss_seg: 0.16353268921375275, loss_patch: 0
+epoch: 12, the number of patch succeeded: 1117
+Batch Index: 5500, loss_total: 0.7148816585540771, loss_depth: 0.2262500822544098, loss_seg: 0.2623814642429352, loss_patch: 0
+epoch: 12, the number of patch succeeded: 1233
+Batch Index: 6000, loss_total: 0.45108574628829956, loss_depth: 0.12102147936820984, loss_seg: 0.20904278755187988, loss_patch: 0
+epoch: 12, the number of patch succeeded: 1353
+Batch Index: 6500, loss_total: 0.57243412733078, loss_depth: 0.18888936936855316, loss_seg: 0.1946554034948349, loss_patch: 0
+epoch: 12, the number of patch succeeded: 1468
+Batch Index: 7000, loss_total: 0.4933229088783264, loss_depth: 0.13466447591781616, loss_seg: 0.22399397194385529, loss_patch: 0
+epoch: 12, the number of patch succeeded: 1589
+Batch Index: 7500, loss_total: 0.5193219780921936, loss_depth: 0.17387305200099945, loss_seg: 0.1715758740901947, loss_patch: 0
+epoch: 12, the number of patch succeeded: 1702
+Batch Index: 8000, loss_total: 0.580929696559906, loss_depth: 0.17065776884555817, loss_seg: 0.22470800578594208, loss_patch: 0.007453085854649544
+epoch: 12, the number of patch succeeded: 1814
+Batch Index: 8500, loss_total: 0.4709162414073944, loss_depth: 0.14980685710906982, loss_seg: 0.17130252718925476, loss_patch: 0
+epoch: 12, the number of patch succeeded: 1926
+Batch Index: 9000, loss_total: 0.43170279264450073, loss_depth: 0.12175295501947403, loss_seg: 0.17781992256641388, loss_patch: 0.005188484210520983
+epoch: 12, the number of patch succeeded: 2043
+Batch Index: 9500, loss_total: 0.5589759349822998, loss_depth: 0.1511756330728531, loss_seg: 0.2429022341966629, loss_patch: 0.006861211732029915
+epoch: 12, the number of patch succeeded: 2161
+Batch Index: 0, loss_total: 0.39452236890792847, loss_depth: 0.07994790375232697, loss_seg: 0.23462656140327454, loss_patch: 0
+epoch: 13, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.584464430809021, loss_depth: 0.11577450484037399, loss_seg: 0.334753155708313, loss_patch: 0.009081115014851093
+epoch: 13, the number of patch succeeded: 99
+Batch Index: 0, loss_total: 0.42060840129852295, loss_depth: 0.09655610471963882, loss_seg: 0.2274961918592453, loss_patch: 0
+epoch: 13, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.5560947060585022, loss_depth: 0.1579328179359436, loss_seg: 0.24022908508777618, loss_patch: 0
+epoch: 13, the number of patch succeeded: 103
+Batch Index: 1000, loss_total: 0.44503191113471985, loss_depth: 0.10731253027915955, loss_seg: 0.19605526328086853, loss_patch: 0.017175789922475815
+epoch: 13, the number of patch succeeded: 215
+Batch Index: 1500, loss_total: 0.42731165885925293, loss_depth: 0.13856682181358337, loss_seg: 0.150178000330925, loss_patch: 0
+epoch: 13, the number of patch succeeded: 325
+Batch Index: 2000, loss_total: 0.5453526973724365, loss_depth: 0.17326706647872925, loss_seg: 0.19881859421730042, loss_patch: 0
+epoch: 13, the number of patch succeeded: 443
+Batch Index: 2500, loss_total: 0.48181450366973877, loss_depth: 0.12449979037046432, loss_seg: 0.23281490802764893, loss_patch: 0
+epoch: 13, the number of patch succeeded: 551
+Batch Index: 3000, loss_total: 0.4672228991985321, loss_depth: 0.1305440366268158, loss_seg: 0.2061348259449005, loss_patch: 0
+epoch: 13, the number of patch succeeded: 656
+Batch Index: 3500, loss_total: 0.5265416502952576, loss_depth: 0.20049498975276947, loss_seg: 0.12555165588855743, loss_patch: 0
+epoch: 13, the number of patch succeeded: 763
+Batch Index: 4000, loss_total: 0.5202648043632507, loss_depth: 0.16444849967956543, loss_seg: 0.19136780500411987, loss_patch: 0
+epoch: 13, the number of patch succeeded: 872
+Batch Index: 4500, loss_total: 0.5198870301246643, loss_depth: 0.14777961373329163, loss_seg: 0.22432781755924225, loss_patch: 0
+epoch: 13, the number of patch succeeded: 978
+Batch Index: 5000, loss_total: 0.37819215655326843, loss_depth: 0.12187261134386063, loss_seg: 0.13444693386554718, loss_patch: 0
+epoch: 13, the number of patch succeeded: 1092
+Batch Index: 5500, loss_total: 0.3899216055870056, loss_depth: 0.09464912861585617, loss_seg: 0.20062333345413208, loss_patch: 0
+epoch: 13, the number of patch succeeded: 1191
+Batch Index: 6000, loss_total: 0.49748745560646057, loss_depth: 0.15089574456214905, loss_seg: 0.19569596648216248, loss_patch: 0
+epoch: 13, the number of patch succeeded: 1302
+Batch Index: 6500, loss_total: 0.3957381844520569, loss_depth: 0.11216413974761963, loss_seg: 0.17140990495681763, loss_patch: 0
+epoch: 13, the number of patch succeeded: 1422
+Batch Index: 7000, loss_total: 0.37960875034332275, loss_depth: 0.1154787614941597, loss_seg: 0.14865121245384216, loss_patch: 0
+epoch: 13, the number of patch succeeded: 1527
+Batch Index: 7500, loss_total: 0.4618004858493805, loss_depth: 0.12969157099723816, loss_seg: 0.20241734385490417, loss_patch: 0
+epoch: 13, the number of patch succeeded: 1640
+Batch Index: 8000, loss_total: 0.470212459564209, loss_depth: 0.15239645540714264, loss_seg: 0.1654195487499237, loss_patch: 0
+epoch: 13, the number of patch succeeded: 1744
+Batch Index: 8500, loss_total: 0.5938083529472351, loss_depth: 0.190025195479393, loss_seg: 0.2137579768896103, loss_patch: 0
+epoch: 13, the number of patch succeeded: 1860
+Batch Index: 9000, loss_total: 0.6557828783988953, loss_depth: 0.23894064128398895, loss_seg: 0.17790161073207855, loss_patch: 0
+epoch: 13, the number of patch succeeded: 1975
+Batch Index: 9500, loss_total: 0.44006192684173584, loss_depth: 0.12260115891695023, loss_seg: 0.1948595941066742, loss_patch: 0
+epoch: 13, the number of patch succeeded: 2077
+Batch Index: 0, loss_total: 0.5139620900154114, loss_depth: 0.14871037006378174, loss_seg: 0.2165413349866867, loss_patch: 0
+epoch: 14, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.2821286916732788, loss_depth: 0.07118084281682968, loss_seg: 0.1331542730331421, loss_patch: 0.0033063653390854597
+epoch: 14, the number of patch succeeded: 95
+Batch Index: 0, loss_total: 0.46215295791625977, loss_depth: 0.16825690865516663, loss_seg: 0.1170419305562973, loss_patch: 0.004298602696508169
+epoch: 14, the number of patch succeeded: 1
+Batch Index: 500, loss_total: 0.6619117259979248, loss_depth: 0.22777660191059113, loss_seg: 0.20635855197906494, loss_patch: 0
+epoch: 14, the number of patch succeeded: 98
+Batch Index: 1000, loss_total: 0.4336773753166199, loss_depth: 0.14193886518478394, loss_seg: 0.1497996300458908, loss_patch: 0
+epoch: 14, the number of patch succeeded: 191
+Batch Index: 1500, loss_total: 0.3902416229248047, loss_depth: 0.11631371080875397, loss_seg: 0.15761418640613556, loss_patch: 0
+epoch: 14, the number of patch succeeded: 303
+Batch Index: 2000, loss_total: 0.29319578409194946, loss_depth: 0.07263214886188507, loss_seg: 0.14793148636817932, loss_patch: 0
+epoch: 14, the number of patch succeeded: 407
+Batch Index: 2500, loss_total: 0.4114198088645935, loss_depth: 0.1261044293642044, loss_seg: 0.1592109501361847, loss_patch: 0
+epoch: 14, the number of patch succeeded: 516
+Batch Index: 3000, loss_total: 0.4172907769680023, loss_depth: 0.1484977751970291, loss_seg: 0.12029523402452469, loss_patch: 0
+epoch: 14, the number of patch succeeded: 622
+Batch Index: 3500, loss_total: 0.4783419370651245, loss_depth: 0.133453831076622, loss_seg: 0.2114342600107193, loss_patch: 0
+epoch: 14, the number of patch succeeded: 731
+Batch Index: 4000, loss_total: 0.5300111174583435, loss_depth: 0.16082221269607544, loss_seg: 0.19798386096954346, loss_patch: 0.0051914239302277565
+epoch: 14, the number of patch succeeded: 845
+Batch Index: 4500, loss_total: 0.48444825410842896, loss_depth: 0.132425919175148, loss_seg: 0.21959641575813293, loss_patch: 0
+epoch: 14, the number of patch succeeded: 958
+Batch Index: 5000, loss_total: 0.4342556297779083, loss_depth: 0.15007588267326355, loss_seg: 0.13410386443138123, loss_patch: 0
+epoch: 14, the number of patch succeeded: 1062
+Batch Index: 5500, loss_total: 0.637965202331543, loss_depth: 0.1845262348651886, loss_seg: 0.26891273260116577, loss_patch: 0
+epoch: 14, the number of patch succeeded: 1157
+Batch Index: 6000, loss_total: 0.47808054089546204, loss_depth: 0.1146991029381752, loss_seg: 0.24868233501911163, loss_patch: 0
+epoch: 14, the number of patch succeeded: 1248
+Batch Index: 6500, loss_total: 0.6258178353309631, loss_depth: 0.21769607067108154, loss_seg: 0.19042569398880005, loss_patch: 0
+epoch: 14, the number of patch succeeded: 1347
+Batch Index: 7000, loss_total: 0.4003095030784607, loss_depth: 0.12156885862350464, loss_seg: 0.15717178583145142, loss_patch: 0
+epoch: 14, the number of patch succeeded: 1455
+Batch Index: 7500, loss_total: 0.3370278477668762, loss_depth: 0.1359463483095169, loss_seg: 0.06513513624668121, loss_patch: 0
+epoch: 14, the number of patch succeeded: 1566
+Batch Index: 8000, loss_total: 0.5581203699111938, loss_depth: 0.16017495095729828, loss_seg: 0.2377704679965973, loss_patch: 0
+epoch: 14, the number of patch succeeded: 1670
+Batch Index: 8500, loss_total: 0.44189128279685974, loss_depth: 0.12597182393074036, loss_seg: 0.18994763493537903, loss_patch: 0
+epoch: 14, the number of patch succeeded: 1780
+Batch Index: 9000, loss_total: 0.45746245980262756, loss_depth: 0.11943327635526657, loss_seg: 0.21859590709209442, loss_patch: 0
+epoch: 14, the number of patch succeeded: 1889
+Batch Index: 9500, loss_total: 0.42573240399360657, loss_depth: 0.09706383943557739, loss_seg: 0.23160472512245178, loss_patch: 0
+epoch: 14, the number of patch succeeded: 1984
+Batch Index: 0, loss_total: 0.36409837007522583, loss_depth: 0.07212257385253906, loss_seg: 0.2198532074689865, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.4789431691169739, loss_depth: 0.14640848338603973, loss_seg: 0.18612618744373322, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.5224640965461731, loss_depth: 0.16422198712825775, loss_seg: 0.1940201073884964, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.43073368072509766, loss_depth: 0.11902334541082382, loss_seg: 0.1926870048046112, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.4166923463344574, loss_depth: 0.14643555879592896, loss_seg: 0.12382122129201889, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.49404484033584595, loss_depth: 0.15126800537109375, loss_seg: 0.19150884449481964, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.550235390663147, loss_depth: 0.17403018474578857, loss_seg: 0.2021750509738922, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.5455328226089478, loss_depth: 0.15902715921401978, loss_seg: 0.2274785041809082, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.4874803423881531, loss_depth: 0.14827869832515717, loss_seg: 0.19092294573783875, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.5455955266952515, loss_depth: 0.1579989194869995, loss_seg: 0.22959768772125244, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.5210356712341309, loss_depth: 0.1415596604347229, loss_seg: 0.23791635036468506, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 0.3939768075942993, loss_depth: 0.10273444652557373, loss_seg: 0.18850789964199066, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.4707309305667877, loss_depth: 0.136235311627388, loss_seg: 0.19826030731201172, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 0.5021018385887146, loss_depth: 0.12936492264270782, loss_seg: 0.24337200820446014, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.505176305770874, loss_depth: 0.12253917753696442, loss_seg: 0.2600979208946228, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.4102097749710083, loss_depth: 0.12809643149375916, loss_seg: 0.15401691198349, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.44420772790908813, loss_depth: 0.15816417336463928, loss_seg: 0.12787938117980957, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.4262770414352417, loss_depth: 0.10871577262878418, loss_seg: 0.20884548127651215, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 0.4286388158798218, loss_depth: 0.14511018991470337, loss_seg: 0.13841843605041504, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.47501885890960693, loss_depth: 0.17469586431980133, loss_seg: 0.12562713027000427, loss_patch: 0
+epoch: 15, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.4212740361690521, loss_depth: 0.1357675939798355, loss_seg: 0.1497388482093811, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.38520127534866333, loss_depth: 0.12315249443054199, loss_seg: 0.13889628648757935, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.36940211057662964, loss_depth: 0.12106109410524368, loss_seg: 0.12727990746498108, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.33835142850875854, loss_depth: 0.08737776428461075, loss_seg: 0.16359589993953705, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.38940155506134033, loss_depth: 0.09135469049215317, loss_seg: 0.206692174077034, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.46682313084602356, loss_depth: 0.11624175310134888, loss_seg: 0.2343396246433258, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.4609031081199646, loss_depth: 0.14132195711135864, loss_seg: 0.1782592087984085, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.4296523630619049, loss_depth: 0.11895491927862167, loss_seg: 0.19174252450466156, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.45513519644737244, loss_depth: 0.12947426736354828, loss_seg: 0.19618666172027588, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.4494832754135132, loss_depth: 0.1402551233768463, loss_seg: 0.16897302865982056, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.47046971321105957, loss_depth: 0.13694272935390472, loss_seg: 0.19658426940441132, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 0.363913357257843, loss_depth: 0.10647179186344147, loss_seg: 0.15096977353096008, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.5511376261711121, loss_depth: 0.16520646214485168, loss_seg: 0.22072471678256989, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 0.48203417658805847, loss_depth: 0.16266566514968872, loss_seg: 0.15670284628868103, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.4544195532798767, loss_depth: 0.10813798010349274, loss_seg: 0.23814357817173004, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.3388499617576599, loss_depth: 0.094194695353508, loss_seg: 0.15046057105064392, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.5873804688453674, loss_depth: 0.1889207363128662, loss_seg: 0.2095390111207962, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.3774373233318329, loss_depth: 0.10236881673336029, loss_seg: 0.1726996898651123, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 0.5364645719528198, loss_depth: 0.17013682425022125, loss_seg: 0.1961909383535385, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.49175015091896057, loss_depth: 0.14932379126548767, loss_seg: 0.19310256838798523, loss_patch: 0
+epoch: 16, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.4117625653743744, loss_depth: 0.08837426453828812, loss_seg: 0.23501403629779816, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.4965307116508484, loss_depth: 0.14889410138130188, loss_seg: 0.19874252378940582, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.40367281436920166, loss_depth: 0.08548637479543686, loss_seg: 0.23270006477832794, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.2757899761199951, loss_depth: 0.05347694829106331, loss_seg: 0.1688360720872879, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.34952837228775024, loss_depth: 0.0915549248456955, loss_seg: 0.16641853749752045, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.45375317335128784, loss_depth: 0.15596354007720947, loss_seg: 0.1418261080980301, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.44100892543792725, loss_depth: 0.14823518693447113, loss_seg: 0.1445385366678238, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.3737463355064392, loss_depth: 0.11327901482582092, loss_seg: 0.14718829095363617, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.4341861605644226, loss_depth: 0.10746879130601883, loss_seg: 0.21924857795238495, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.26252982020378113, loss_depth: 0.06508182734251022, loss_seg: 0.13236616551876068, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.48446986079216003, loss_depth: 0.12781578302383423, loss_seg: 0.22883829474449158, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 0.5505778789520264, loss_depth: 0.17289547622203827, loss_seg: 0.20478692650794983, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.37092140316963196, loss_depth: 0.10077697038650513, loss_seg: 0.1693674623966217, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 0.28884023427963257, loss_depth: 0.0740518718957901, loss_seg: 0.14073650538921356, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.3652076721191406, loss_depth: 0.10510535538196564, loss_seg: 0.15499697625637054, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.36281847953796387, loss_depth: 0.08804774284362793, loss_seg: 0.1867230087518692, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.5427843928337097, loss_depth: 0.168965682387352, loss_seg: 0.20485301315784454, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.4084627032279968, loss_depth: 0.11123795807361603, loss_seg: 0.18598678708076477, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 0.5629526376724243, loss_depth: 0.18591779470443726, loss_seg: 0.19111701846122742, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.4347538948059082, loss_depth: 0.11638493835926056, loss_seg: 0.20198401808738708, loss_patch: 0
+epoch: 17, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.3585074841976166, loss_depth: 0.09690877050161362, loss_seg: 0.16468994319438934, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.3593354821205139, loss_depth: 0.09235300123691559, loss_seg: 0.17462946474552155, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.45906805992126465, loss_depth: 0.1392442137002945, loss_seg: 0.18057963252067566, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.6050758361816406, loss_depth: 0.16757088899612427, loss_seg: 0.2699340581893921, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.51845383644104, loss_depth: 0.1675383746623993, loss_seg: 0.18337711691856384, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.35632601380348206, loss_depth: 0.08941087871789932, loss_seg: 0.1775042563676834, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.34169694781303406, loss_depth: 0.10935873538255692, loss_seg: 0.12297947704792023, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.4664917588233948, loss_depth: 0.1333845853805542, loss_seg: 0.19972258806228638, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.4006284475326538, loss_depth: 0.10930053889751434, loss_seg: 0.18202736973762512, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.5198471546173096, loss_depth: 0.15597960352897644, loss_seg: 0.2078879177570343, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.4626217186450958, loss_depth: 0.1430230438709259, loss_seg: 0.17657563090324402, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.5367876887321472, loss_depth: 0.20408709347248077, loss_seg: 0.12861351668834686, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.47524961829185486, loss_depth: 0.12578530609607697, loss_seg: 0.22367900609970093, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.4901695251464844, loss_depth: 0.17489172518253326, loss_seg: 0.14038605988025665, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.44275331497192383, loss_depth: 0.12533456087112427, loss_seg: 0.1920842081308365, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.4666767716407776, loss_depth: 0.15779995918273926, loss_seg: 0.15107683837413788, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.5412205457687378, loss_depth: 0.17902739346027374, loss_seg: 0.18316572904586792, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.6218193769454956, loss_depth: 0.16664573550224304, loss_seg: 0.28852787613868713, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 0.4407771825790405, loss_depth: 0.11099962145090103, loss_seg: 0.21877792477607727, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.3622599244117737, loss_depth: 0.09886644780635834, loss_seg: 0.1645270437002182, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 0.3665775656700134, loss_depth: 0.11300468444824219, loss_seg: 0.14056819677352905, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.5112050771713257, loss_depth: 0.16332918405532837, loss_seg: 0.18454670906066895, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.39645540714263916, loss_depth: 0.08795998245477676, loss_seg: 0.22053545713424683, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.46395236253738403, loss_depth: 0.13989950716495514, loss_seg: 0.18415333330631256, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.48846733570098877, loss_depth: 0.1849471926689148, loss_seg: 0.11857296526432037, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 0.420244038105011, loss_depth: 0.13912445306777954, loss_seg: 0.1419951170682907, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.45496684312820435, loss_depth: 0.14607863128185272, loss_seg: 0.1628095954656601, loss_patch: 0
+epoch: 18, the number of patch succeeded: 0
+Batch Index: 0, loss_total: 0.3247378468513489, loss_depth: 0.08536717295646667, loss_seg: 0.15400350093841553, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 500, loss_total: 0.4919174313545227, loss_depth: 0.1501483917236328, loss_seg: 0.1916206330060959, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 1000, loss_total: 0.4925205707550049, loss_depth: 0.15228375792503357, loss_seg: 0.18795304000377655, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 1500, loss_total: 0.44996392726898193, loss_depth: 0.14089496433734894, loss_seg: 0.16817401349544525, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 2000, loss_total: 0.4235183000564575, loss_depth: 0.11998292803764343, loss_seg: 0.18355245888233185, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 2500, loss_total: 0.6960110664367676, loss_depth: 0.23448097705841064, loss_seg: 0.2270490974187851, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 3000, loss_total: 0.46644333004951477, loss_depth: 0.14743971824645996, loss_seg: 0.17156389355659485, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 3500, loss_total: 0.5165334939956665, loss_depth: 0.1645601987838745, loss_seg: 0.1874130666255951, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 4000, loss_total: 0.47355788946151733, loss_depth: 0.13361774384975433, loss_seg: 0.20632238686084747, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 4500, loss_total: 0.43594586849212646, loss_depth: 0.13396231830120087, loss_seg: 0.16802124679088593, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 5000, loss_total: 0.5838744640350342, loss_depth: 0.18523022532463074, loss_seg: 0.21341398358345032, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 5500, loss_total: 0.4671577215194702, loss_depth: 0.17200137674808502, loss_seg: 0.12315498292446136, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 6000, loss_total: 0.5276973843574524, loss_depth: 0.14892767369747162, loss_seg: 0.22984202206134796, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 6500, loss_total: 0.3500085473060608, loss_depth: 0.08940573781728745, loss_seg: 0.1711970716714859, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 7000, loss_total: 0.47598230838775635, loss_depth: 0.14057448506355286, loss_seg: 0.19483332335948944, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 7500, loss_total: 0.4645862579345703, loss_depth: 0.1563650667667389, loss_seg: 0.15185612440109253, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 8000, loss_total: 0.5577008724212646, loss_depth: 0.16424889862537384, loss_seg: 0.22920307517051697, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 8500, loss_total: 0.32848915457725525, loss_depth: 0.0918576568365097, loss_seg: 0.14477384090423584, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 9000, loss_total: 0.4361051321029663, loss_depth: 0.1166558563709259, loss_seg: 0.2027934044599533, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
+Batch Index: 9500, loss_total: 0.438999742269516, loss_depth: 0.11946247518062592, loss_seg: 0.20007479190826416, loss_patch: 0
+epoch: 19, the number of patch succeeded: 0
