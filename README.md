@@ -1,5 +1,7 @@
 # **Semantic-Guided Monocular Depth Estimation Based on Patch Knowledge Distillation**
 
+### Jia Liu, Bin Wang, Dapeng Chen, Lina Wei，Nanxuan Huang, Zengwei Zhang, and Song Hong
+
 ## Introduction
 This repository contains the implementation of the Semantic-Guided Monocular Depth Estimation model based on Patch Knowledge Distillation, developed by Wang Bin from Nanjing University of Information Science and Technology.
 
