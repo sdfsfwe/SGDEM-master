@@ -28,13 +28,4 @@ We introduced a block-wise self-attention module in the decoder to enhance the e
 - Python 3.9
 - Dependencies listed in `requirements.txt`
 
-% ## Citation
-% If you find this work helpful in your research, please cite:
-% ```bibtex
-% @article{wang2024semanticdepth,
-%  title={Semantic-Guided Monocular Depth Estimation Based on Patch Knowledge Distillation},
-%  author={Wang, Bin},
-%  journal={Journal of Computer Vision},
-%  year={2024}
-% }
 
