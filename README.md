@@ -5,7 +5,7 @@ This repository contains the implementation of the Semantic-Guided Monocular Dep
 
 The model enhances depth estimation accuracy through explicit constraints from semantic segmentation, focusing on refining depth estimation contours.
 
-<img src="./asserts/OverallFramework.jpg" alt="图片描述" width="300">
+<img src="./asserts/OverallFramework.jpg" alt="图片描述" width="1000">
 
 ### Result3
 
