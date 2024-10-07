@@ -5,11 +5,15 @@ This repository contains the implementation of the Semantic-Guided Monocular Dep
 
 The model enhances depth estimation accuracy through explicit constraints from semantic segmentation, focusing on refining depth estimation contours.The model framework is shown in the figure:
 
-<img src="./asserts/OverallFramework.jpg" alt="图片描述" width="600">
+<img src="./asserts/OverallFramework.jpg" alt="图片描述" width="700">
 
 The performance of the model on the Kitti dataset compared with other models is shown in the figure：
 
-<img src="./asserts/test1.jpg" alt="图片描述" width="600">
+<img src="./asserts/test1.jpg" alt="图片描述" width="700">
+
+The model's performance on different datasets (Kitties, Cityscapes, Ddad, DIML, and Nyu) is shown in the figure:
+
+<img src="./asserts/test2.jpg" alt="图片描述" width="700">
 
 ### Result3
 
