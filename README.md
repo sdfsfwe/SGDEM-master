@@ -3,9 +3,13 @@
 ## Introduction
 This repository contains the implementation of the Semantic-Guided Monocular Depth Estimation model based on Patch Knowledge Distillation, developed by Wang Bin from Nanjing University of Information Science and Technology.
 
-The model enhances depth estimation accuracy through explicit constraints from semantic segmentation, focusing on refining depth estimation contours.
+The model enhances depth estimation accuracy through explicit constraints from semantic segmentation, focusing on refining depth estimation contours.The model framework is shown in the figure:
 
 <img src="./asserts/OverallFramework.jpg" alt="图片描述" width="600">
+
+The performance of the model on the Kitti dataset compared with other models is shown in the figure：
+
+<img src="./asserts/test1.jpg" alt="图片描述" width="600">
 
 ### Result3
 
