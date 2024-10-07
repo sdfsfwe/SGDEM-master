@@ -24,23 +24,17 @@ We improved the patch-based depth refinement method by employing dual networks (
 ### 3. Block Self-Attention Mechanism
 We introduced a block-wise self-attention module in the decoder to enhance the extraction capability of deep features. Compared to conventional attention modules, the block-wise approach reduces the computational load of the model.
 
-## Usage
-1. **Installation**: Follow the installation instructions in `INSTALL.md`.
-2. **Training**: Run `train.py` with specified parameters to train the model.
-3. **Evaluation**: Evaluate model performance using `evaluate.py` on test datasets.
-4. **Inference**: Perform depth estimation on new images with `inference.py`.
-
 ## Requirements
 - Python 3.9
 - Dependencies listed in `requirements.txt`
 
-## Citation
-If you find this work helpful in your research, please cite:
-```bibtex
-@article{wang2024semanticdepth,
-  title={Semantic-Guided Monocular Depth Estimation Based on Patch Knowledge Distillation},
-  author={Wang, Bin},
-  journal={Journal of Computer Vision},
-  year={2024}
-}
+% ## Citation
+% If you find this work helpful in your research, please cite:
+% ```bibtex
+% @article{wang2024semanticdepth,
+%  title={Semantic-Guided Monocular Depth Estimation Based on Patch Knowledge Distillation},
+%  author={Wang, Bin},
+%  journal={Journal of Computer Vision},
+%  year={2024}
+% }
 
