@@ -17,7 +17,7 @@ The model's performance on different datasets (Kitties, Cityscapes, Ddad, DIML, 
 
 <img src="./asserts/test2.jpg" alt="图片描述" width="700">
 
-### Result3
+### Results
 
 | Method | Train | BackBone | Abs Rel | Sq Rel | RMSE | RMSE log |δ < 1.25 | δ² < 1.25 | δ³ < 1.25 | 
 |--------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
